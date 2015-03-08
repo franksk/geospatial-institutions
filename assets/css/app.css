@@ -16,7 +16,8 @@ html, body {
 
 .leaflet-popup-content {background: #757575; color: #fff; border-color: #fff; border-radius:12px; margin: 6px;}
 .leaflet-popup-content-wrapper {border-radius: 12px; background: #fff; color: #fff;}
-.leaflet-popup-content a {color: #111111;}
+.leaflet-popup-content a {color: #33CCCC;}
 .leaflet-popup-content h3 {font-size:22px;text-align: center;}
-.leaflet-popup-content a:hover {color: #ccc;}
+.leaflet-popup-content a:hover {color: #66FFFF;}
 .leaflet-popup-tip {border-top: 10px solid #fff;}
+.leaflet-popup-close-button {background-color: #fff; border-radius:12px; z-index: 99; }

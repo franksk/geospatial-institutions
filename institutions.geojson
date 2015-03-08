@@ -95,6 +95,44 @@
           46.8170
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Wisconsin-Milwaukee",
+        "address": "Milwaukee, Wisc.",
+        "description": "Graduate Certificate",
+        "web": "http://www4.uwm.edu/giscertificate",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8794,
+          43.0798
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Wisconsin-Madison",
+        "address": "Madison, Wisc.",
+        "description": "Graduate Certificate",
+        "web": "http://www.geography.wisc.edu/GISCertificate",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4142,
+          43.0775
+        ]
+      }
     }
   ]
 }

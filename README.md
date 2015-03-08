@@ -19,3 +19,7 @@ Coming soon, check back shortly!
 3. Saint Mary's University of Minnesota
 2. University of Minnesota
 3. University of Minnesota-Duluth
+
+###US-Wisconsin
+1. University of Wisconsin-Milwaukee
+2. University of Wisconsin-Madison

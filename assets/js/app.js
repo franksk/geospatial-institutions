@@ -13,9 +13,7 @@ var geojson_layer_options = {
   pointToLayer: L.mapbox.marker.style,
   onEachFeature: function (feature, layer) {
     var html = '';
-    if (feature.properties.web) {
-    	html += '<h3><a href="'+ feature.properties.web + '" target="_blank">' + feature.properties.title + '</a></h3>';    	
-    } else {
+    if (feature.properties.title) {
       html += '<h3>' + feature.properties.title + '</h3>';
     }
     if (feature.properties.address) {
@@ -23,6 +21,9 @@ var geojson_layer_options = {
     }
     if (feature.properties.description) {
       html += '<p>' + feature.properties.description + '</p>';
+    }
+    if (feature.properties.web) {
+    	html += '<p><a href="'+ feature.properties.web + '" target="_blank">' + 'Website' + '</a></p>';    	
     }
     layer.bindPopup(html);
   }
