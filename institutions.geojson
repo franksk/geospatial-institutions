@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anoka-Ramsey Community College",
+        "address": "Coon Rapids, Minn.",
+        "description": "AS degree, GIS certificate",
+        "web": "http://www.anokaramsey.edu/classes/CourseDescriptions.aspx?subj=GEOG",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3514,
+          45.1725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Minnesota State University, Mankato",
+        "address": "Mankato, Minn.",
+        "description": "GIS certificate",
+        "web": "http://sbs.mnsu.edu/geography",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9976,
+          44.1471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saint Mary's University of Minnesota",
+        "address": "Winona, Minn.",
+        "description": "GIS certificate, Masters degree",
+        "web": "http://www.gis.smumn.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6946,
+          44.0428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Minnesota",
+        "address": "Minneapolis, Minn.",
+        "description": "Masters degree",
+        "web": "http://mgis.umn.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2252,
+          44.9744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Minnesota-Duluth",
+        "address": "Duluth, Minn.",
+        "description": "GIS Certificate, Bachelors degree: Major, Minor.",
+        "web": "http://www.d.umn.edu/geog/main/index.html",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0844,
+          46.8170
+        ]
+      }
+    }
+  ]
+}
