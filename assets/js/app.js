@@ -16,8 +16,8 @@ var geojson_layer_options = {
     if (feature.properties.title) {
       html += '<h3>' + feature.properties.title + '</h3>';
     }
-    if (feature.properties.address) {
-        html += '<p>'+ feature.properties.address + '</p>';
+    if (feature.properties.location) {
+        html += '<p>'+ feature.properties.location + '</p>';
     }
     if (feature.properties.description) {
       html += '<p>' + feature.properties.description + '</p>';

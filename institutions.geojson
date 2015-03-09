@@ -4,8 +4,229 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Chicago State University",
+        "location-code": "US-Illinois",
+        "location": "Chicago, Ill.",
+        "description": "Graduate certificate",
+        "web": "http://www.csu.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6111,
+          41.7195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DePaul University",
+        "location-code": "US-Illinois",
+        "location": "Chicago, Ill.",
+        "description": "GIS certificate",
+        "web": "http://www.depaul.edu/Pages/default.aspx",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6550,
+          41.9256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elmhurst College",
+        "location-code": "US-Illinois",
+        "location": "Elmhurst, Ill.",
+        "description": "GIS certificate, Online program",
+        "web": "http://public.elmhurst.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9461,
+          41.8963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harold Washington College",
+        "location-code": "US-Illinois",
+        "location": "Chicago, Ill.",
+        "description": "GIS certificate",
+        "web": "http://faculty.ccc.edu/colleges/hwashington/physcience/documents/GIS_Cert.pdf",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6266,
+          41.8860
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northern Illinois University",
+        "location-code": "US-Illinois",
+        "location": "DeKalb, Ill.",
+        "description": "Undergraduate GIS certificate",
+        "web": "http://www.niu.edu/index.shtml",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7824,
+          41.9317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roosevelt University",
+        "location-code": "US-Illinois",
+        "location": "Chicago, Ill.",
+        "description": "Undergraduate & Graduate GIS certificates",
+        "web": "http://www.roosevelt.edu/Home.aspx",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6248,
+          41.8759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Illinois-Chicago",
+        "location-code": "US-Illinois",
+        "location": "Chicago, Ill.",
+        "description": "Public Health GIS Online Certificate",
+        "web": "http://publichealth.uic.edu/academics/certificates/publichealthgeographicinformationsystems",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6489,
+          41.8738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Illinois-Springfield",
+        "location-code": "US-Illinois",
+        "location": "Springfield, Ill.",
+        "description": "Graduate Certificate",
+        "web": "http://www.uis.edu/gis",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6152,
+          39.7259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Waubonsee Community College",
+        "location-code": "US-Illinois",
+        "location": "Aurora, Ill.",
+        "description": "Graduate Certificate",
+        "web": "http://www.waubonsee.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3170,
+          41.7589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kirkwood Community College",
+        "location-code": "US-Iowa",
+        "location": "Cedar Rapids, Iowa",
+        "description": "AS degree, GIS certificate",
+        "web": "http://www.kirkwood.edu/site/index.php?d=684",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6502,
+          41.9055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Northern Iowa",
+        "location-code": "US-Iowa",
+        "location": "Cedar Falls, Iowa",
+        "description": "BA degree, MA degree, GIS certificate",
+        "web": "http://www.uni.edu/csbs/geography",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4629,
+          42.5124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Anoka-Ramsey Community College",
-        "address": "Coon Rapids, Minn.",
+        "location-code": "US-Minnesota",
+        "location": "Coon Rapids, Minn.",
         "description": "AS degree, GIS certificate",
         "web": "http://www.anokaramsey.edu/classes/CourseDescriptions.aspx?subj=GEOG",
         "marker-symbol": "star",
@@ -24,7 +245,8 @@
       "type": "Feature",
       "properties": {
         "title": "Minnesota State University, Mankato",
-        "address": "Mankato, Minn.",
+        "location-code": "US-Minnesota",
+        "location": "Mankato, Minn.",
         "description": "GIS certificate",
         "web": "http://sbs.mnsu.edu/geography",
         "marker-symbol": "star",
@@ -43,7 +265,8 @@
       "type": "Feature",
       "properties": {
         "title": "Saint Mary's University of Minnesota",
-        "address": "Winona, Minn.",
+        "location-code": "US-Minnesota",
+        "location": "Winona, Minn.",
         "description": "GIS certificate, Masters degree",
         "web": "http://www.gis.smumn.edu",
         "marker-symbol": "star",
@@ -62,7 +285,8 @@
       "type": "Feature",
       "properties": {
         "title": "University of Minnesota",
-        "address": "Minneapolis, Minn.",
+        "location-code": "US-Minnesota",
+        "location": "Minneapolis, Minn.",
         "description": "Masters degree",
         "web": "http://mgis.umn.edu",
         "marker-symbol": "star",
@@ -81,7 +305,8 @@
       "type": "Feature",
       "properties": {
         "title": "University of Minnesota-Duluth",
-        "address": "Duluth, Minn.",
+        "location-code": "US-Minnesota",
+        "location": "Duluth, Minn.",
         "description": "GIS Certificate, Bachelors degree: Major, Minor.",
         "web": "http://www.d.umn.edu/geog/main/index.html",
         "marker-symbol": "star",
@@ -99,8 +324,49 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Bismark State College",
+        "location-code": "US-North Dakota",
+        "location": "Bismark, N. Dakota",
+        "description": "AS degree, GIS Certificate",
+        "web": "http://www.bismarckstate.edu/academics/programsfi/gis",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8154,
+          46.8207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of North Dakota",
+        "location-code": "US-North Dakota",
+        "location": "Grand Forks, N. Dakota",
+        "description": "Graduate Certificate",
+        "web": "http://und.edu/academics/extended-learning/online-distance/graduate-certificates/geographic-information-sciences/index.cfm",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0730,
+          47.9214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of Wisconsin-Milwaukee",
-        "address": "Milwaukee, Wisc.",
+        "location-code": "US-Wisconsin",
+        "location": "Milwaukee, Wisc.",
         "description": "Graduate Certificate",
         "web": "http://www4.uwm.edu/giscertificate",
         "marker-symbol": "star",
@@ -119,7 +385,8 @@
       "type": "Feature",
       "properties": {
         "title": "University of Wisconsin-Madison",
-        "address": "Madison, Wisc.",
+        "location-code": "US-Wisconsin",
+        "location": "Madison, Wisc.",
         "description": "Graduate Certificate",
         "web": "http://www.geography.wisc.edu/GISCertificate",
         "marker-symbol": "star",

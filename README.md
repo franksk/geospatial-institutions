@@ -1,9 +1,9 @@
-# Geospatial Institutions
+#Geospatial Institutions
 A compliation of geospatial colleges and universities in North America with a focus on Canada and the United States. 
 
 Other colleges and universities outside of North America are welcome, too! The ultimate goal of this project is to include **_all_** geospatial programs available to students around the globe! 
 
-Currently listed on <a href="http://www.urisa.org/careers/colleges-and-universities">URISA's website</a>.
+Currently listed on <a href="http://www.urisa.org/careers/colleges-and-universities" target="_blank">URISA's website</a>.
 
 ##About the Project
 This list originated as part of the URISA Vanguard Outreach Committee and we hope to reach out to a larger community to provide a list that will serve throughout the geospatial community! :-P
@@ -13,13 +13,34 @@ Coming soon, check back shortly!
 
 ##Full List
 
-###US-Minnesota
-1. Anoka-Ramsey Community College
-2. Minnesota State University, Mankato
-3. Saint Mary's University of Minnesota
-2. University of Minnesota
-3. University of Minnesota-Duluth
+###US-Illinois *(9)*
+- Chicago State University
+- DePaul University
+- Elmhurst College
+- Harold Washington College
+- Northern Illinois University
+- Roosevelt University
+- University of Illinois-Chicago
+- University of Illinois-Springfield
+- Waubonsee Community College
 
-###US-Wisconsin
-1. University of Wisconsin-Milwaukee
-2. University of Wisconsin-Madison
+###US-Iowa *(2)*
+- Kirkwood Community College
+- University of Northern Iowa
+
+###US-Minnesota *(5)*
+- Anoka-Ramsey Community College
+- Minnesota State University, Mankato
+- Saint Mary's University of Minnesota
+- University of Minnesota
+- University of Minnesota-Duluth
+
+###US-North Dakota *(2)*
+- Bismark State College
+- University of North Dakota
+
+###US-South Dakota *(0)*
+
+###US-Wisconsin *(2)*
+- University of Wisconsin-Milwaukee
+- University of Wisconsin-Madison
