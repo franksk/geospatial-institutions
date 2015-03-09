@@ -11,7 +11,7 @@ This list originated as part of the URISA Vanguard Outreach Committee and we hop
 ###How to Edit
 Coming soon, check back shortly!
 
-##Full List
+##Full List *(20)*
 
 ###US-Illinois *(9)*
 - Chicago State University
