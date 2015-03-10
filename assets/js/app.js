@@ -31,6 +31,8 @@ var geojson_layer_options = {
 var geojson_layer = new L.GeoJSON(null, geojson_layer_options);
 geojson_layer.addTo(map);
 
+
+
 var xhr_options = {
   uri    : 'institutions.geojson',
   json   : true,

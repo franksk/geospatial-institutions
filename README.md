@@ -11,7 +11,7 @@ This list originated as part of the URISA Vanguard Outreach Committee and we hop
 ###How to Edit
 Coming soon, check back shortly!
 
-##Full List *(20)*
+##Full List *(28)*
 
 ###US-Illinois *(9)*
 - Chicago State University
@@ -24,9 +24,18 @@ Coming soon, check back shortly!
 - University of Illinois-Springfield
 - Waubonsee Community College
 
+###US-Indiana *(1)*
+- Indiana University-Purdue University Indianapolis
+
 ###US-Iowa *(2)*
 - Kirkwood Community College
 - University of Northern Iowa
+
+###US-Michigan *(4)*
+- Ferris State University
+- Michigan State University
+- University of Michigan
+- Western Michigan University
 
 ###US-Minnesota *(5)*
 - Anoka-Ramsey Community College
@@ -34,6 +43,13 @@ Coming soon, check back shortly!
 - Saint Mary's University of Minnesota
 - University of Minnesota
 - University of Minnesota-Duluth
+
+###US-Missouri *(3)*
+- Northwest Missouri State University
+- Park University
+- University of Missouri-Kansas City
+
+###US-Nebraska *(0)*
 
 ###US-North Dakota *(2)*
 - Bismark State College

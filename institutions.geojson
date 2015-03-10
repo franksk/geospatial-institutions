@@ -180,6 +180,26 @@
           41.7589
         ]
       }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Indiana University-Purdue University Indianapolis",
+        "location-code": "US-Indiana",
+        "location": "Indianapolis, Ind.",
+        "description": "Master degree",
+        "web": "http://www.iupui.edu/academics/degrees-majors/index.html?degree=geographic%20information%20science",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1684,
+          39.7769
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -218,6 +238,86 @@
         "coordinates": [
           -92.4629,
           42.5124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ferris State University",
+        "location-code": "US-Michigan",
+        "location": "Big Rapids, Mich.",
+        "description": "GIS certificate",
+        "web": "http://www.ferris.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4829,
+          43.6879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Michigan State University",
+        "location-code": "US-Michigan",
+        "location": "East Lansing, Mich.",
+        "description": "Bachelor degree, Master degree, Online",
+        "web": "http://www.msu.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4788,
+          42.7317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Michigan",
+        "location-code": "US-Michigan",
+        "location": "Ann Arbor, Mich.",
+        "description": "Spatial analysis certificate",
+        "web": "http://cscar.research.umich.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7413,
+          42.2762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Western Michigan University",
+        "location-code": "US-Michigan",
+        "location": "Kalamazoo, Mich.",
+        "description": "Bachelors degree, Masters degree",
+        "web": "http://www.wmich.edu/academics/undergraduate/geography",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6148,
+          42.2827
         ]
       }
     },
@@ -318,6 +418,66 @@
         "coordinates": [
           -92.0844,
           46.8170
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northwest Missouri State University",
+        "location-code": "US-Missouri",
+        "location": "Maryville, Missouri",
+        "description": "Online Masters degree",
+        "web": "http://www.nwmissouri.edu/socialsciences/msgis/index.htm",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8838,
+          40.3519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Park University",
+        "location-code": "US-Missouri",
+        "location": "Parkville, Missouri",
+        "description": "GIS Minor",
+        "web": "http://www.park.edu/academics/academic-programs/undergraduate-programs/geography",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6810,
+          39.1894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Missouri-Kansas City",
+        "location-code": "US-Missouri",
+        "location": "Kansas City, Missouri",
+        "description": "Advanced GIS Certificate",
+        "web": "http://catalog.umkc.edu/colleges-schools/arts-sciences/academic-departments-programs/geosciences/graduate-certificate-program-gis",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5762,
+          39.0336
         ]
       }
     },
