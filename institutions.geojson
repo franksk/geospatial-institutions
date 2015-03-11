@@ -244,6 +244,46 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Kansas State University",
+        "location-code": "US-Kansas",
+        "location": "Manhattan, Kan.",
+        "description": "Bachelor and Master certificates",
+        "web": "http://www.k-state.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5835,
+          39.1971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Kansas",
+        "location-code": "US-Kansas",
+        "location": "Lawrence, Kan.",
+        "description": "BA degree",
+        "web": "http://geog.ku.edu",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2506,
+          38.9589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ferris State University",
         "location-code": "US-Michigan",
         "location": "Big Rapids, Mich.",

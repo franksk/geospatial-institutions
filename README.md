@@ -11,7 +11,7 @@ This list originated as part of the URISA Vanguard Outreach Committee and we hop
 ###How to Edit
 Coming soon, check back shortly!
 
-##Full List *(28)*
+##Full List *(30)*
 
 ###US-Illinois *(9)*
 - Chicago State University
@@ -30,6 +30,10 @@ Coming soon, check back shortly!
 ###US-Iowa *(2)*
 - Kirkwood Community College
 - University of Northern Iowa
+
+###US-Kansas *(2)*
+- Kansas State University
+- University of Kansas
 
 ###US-Michigan *(4)*
 - Ferris State University
