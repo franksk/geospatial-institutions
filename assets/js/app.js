@@ -22,8 +22,11 @@ var geojson_layer_options = {
     if (feature.properties.description) {
       html += '<p>' + feature.properties.description + '</p>';
     }
-    if (feature.properties.web) {
-    	html += '<p><a href="'+ feature.properties.web + '" target="_blank">' + 'Website' + '</a></p>';    	
+    if (feature.properties.contact) {
+        html += '<p><a href="mailto:'+ feature.properties.contact + '">' + 'Contact' + '</a> | <a href="'+ feature.properties.web + '" target="_blank">' + 'Website' + '</a></p>';  
+      }
+    else {
+    	html += '<p><a href="'+ feature.properties.web + '" target="_blank">' + 'Website' + '</a></p>'; 
     }
     layer.bindPopup(html);
   }
