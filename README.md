@@ -11,11 +11,12 @@ This list originated as part of the URISA Vanguard Outreach Committee and we hop
 ###How to Edit
 Coming soon, check back shortly!
 
-##Full List *(30)*
+##Full List *(31)*
 
-###US-Illinois *(9)*
+###US-Illinois *(10)*
 - Chicago State University
 - DePaul University
+- Eastern Illinois University
 - Elmhurst College
 - Harold Washington College
 - Northern Illinois University

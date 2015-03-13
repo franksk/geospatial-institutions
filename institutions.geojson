@@ -8,6 +8,7 @@
         "location-code": "US-Illinois",
         "location": "Chicago, Ill.",
         "description": "Graduate certificate",
+        "contact": "dblock@csu.edu",
         "web": "http://www.csu.edu",
         "marker-symbol": "star",
         "marker-size": "small",
@@ -38,6 +39,27 @@
         "coordinates": [
           -87.6550,
           41.9256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eastern Illinois University",
+        "location-code": "US-Illinois",
+        "location": "Charleston, Ill.",
+        "description": "Masters degree",
+        "contact": "mwcornebise@eiu.edu",
+        "web": "http://www.eiu.edu/psm",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1752,
+          39.4836
         ]
       }
     },
