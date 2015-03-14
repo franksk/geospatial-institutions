@@ -11,7 +11,7 @@ This list originated as part of the URISA Vanguard Outreach Committee and we hop
 ###How to Edit
 Coming soon, check back shortly!
 
-##Full List *(33)*
+##Full List *(34)*
 
 ###US-Illinois *(10)*
 - Chicago State University
@@ -42,8 +42,9 @@ Coming soon, check back shortly!
 - University of Michigan
 - Western Michigan University
 
-###US-Minnesota *(5)*
+###US-Minnesota *(6)*
 - Anoka-Ramsey Community College
+- Gustavus Adolphus College
 - Minnesota State University, Mankato
 - Saint Mary's University of Minnesota
 - University of Minnesota

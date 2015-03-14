@@ -10,7 +10,7 @@
         "description": "Graduate certificate",
         "contact": "dblock@csu.edu",
         "web": "http://www.csu.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -30,7 +30,7 @@
         "location": "Chicago, Ill.",
         "description": "GIS certificate",
         "web": "http://www.depaul.edu/Pages/default.aspx",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -51,7 +51,7 @@
         "description": "Masters degree",
         "contact": "mwcornebise@eiu.edu",
         "web": "http://www.eiu.edu/psm",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -71,7 +71,7 @@
         "location": "Elmhurst, Ill.",
         "description": "GIS certificate, Online program",
         "web": "http://public.elmhurst.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -91,7 +91,7 @@
         "location": "Chicago, Ill.",
         "description": "GIS certificate",
         "web": "http://faculty.ccc.edu/colleges/hwashington/physcience/documents/GIS_Cert.pdf",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -111,7 +111,7 @@
         "location": "DeKalb, Ill.",
         "description": "Undergraduate GIS certificate",
         "web": "http://www.niu.edu/index.shtml",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -131,7 +131,7 @@
         "location": "Chicago, Ill.",
         "description": "Undergraduate & Graduate GIS certificates",
         "web": "http://www.roosevelt.edu/Home.aspx",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -151,7 +151,7 @@
         "location": "Chicago, Ill.",
         "description": "Public Health GIS Online Certificate",
         "web": "http://publichealth.uic.edu/academics/certificates/publichealthgeographicinformationsystems",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -171,7 +171,7 @@
         "location": "Springfield, Ill.",
         "description": "Graduate Certificate",
         "web": "http://www.uis.edu/gis",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -191,7 +191,7 @@
         "location": "Aurora, Ill.",
         "description": "Graduate Certificate",
         "web": "http://www.waubonsee.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -211,7 +211,7 @@
         "location": "Indianapolis, Ind.",
         "description": "Master degree",
         "web": "http://www.iupui.edu/academics/degrees-majors/index.html?degree=geographic%20information%20science",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -231,7 +231,7 @@
         "location": "Cedar Rapids, Iowa",
         "description": "AS degree, GIS certificate",
         "web": "http://www.kirkwood.edu/site/index.php?d=684",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -251,7 +251,7 @@
         "location": "Cedar Falls, Iowa",
         "description": "BA degree, MA degree, GIS certificate",
         "web": "http://www.uni.edu/csbs/geography",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -271,7 +271,7 @@
         "location": "Manhattan, Kan.",
         "description": "Bachelor and Master certificates",
         "web": "http://www.k-state.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -291,7 +291,7 @@
         "location": "Lawrence, Kan.",
         "description": "BA degree",
         "web": "http://geog.ku.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -311,7 +311,7 @@
         "location": "Big Rapids, Mich.",
         "description": "GIS certificate",
         "web": "http://www.ferris.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -331,7 +331,7 @@
         "location": "East Lansing, Mich.",
         "description": "Bachelor degree, Master degree, Online",
         "web": "http://www.msu.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -351,7 +351,7 @@
         "location": "Ann Arbor, Mich.",
         "description": "Spatial analysis certificate",
         "web": "http://cscar.research.umich.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -371,7 +371,7 @@
         "location": "Kalamazoo, Mich.",
         "description": "Bachelors degree, Masters degree",
         "web": "http://www.wmich.edu/academics/undergraduate/geography",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -391,7 +391,7 @@
         "location": "Coon Rapids, Minn.",
         "description": "AS degree, GIS certificate",
         "web": "http://www.anokaramsey.edu/classes/CourseDescriptions.aspx?subj=GEOG",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -406,12 +406,33 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Gustavus Adolphus College",
+        "location-code": "US-Minnesota",
+        "location": "St. Peter, Minn.",
+        "description": "GIS coursework",
+        "contact": "averslui@gustavus.edu",
+        "web": "https://gustavus.edu/geography",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#ccc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9708,
+          44.3241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Minnesota State University, Mankato",
         "location-code": "US-Minnesota",
         "location": "Mankato, Minn.",
         "description": "GIS certificate",
         "web": "http://sbs.mnsu.edu/geography",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -431,7 +452,7 @@
         "location": "Winona, Minn.",
         "description": "GIS certificate, Masters degree",
         "web": "http://www.gis.smumn.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -451,7 +472,7 @@
         "location": "Minneapolis, Minn.",
         "description": "Masters degree",
         "web": "http://mgis.umn.edu",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -471,7 +492,7 @@
         "location": "Duluth, Minn.",
         "description": "GIS Certificate, Bachelors degree: Major, Minor.",
         "web": "http://www.d.umn.edu/geog/main/index.html",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -491,7 +512,7 @@
         "location": "Maryville, Missouri",
         "description": "Online Masters degree",
         "web": "http://www.nwmissouri.edu/socialsciences/msgis/index.htm",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -511,7 +532,7 @@
         "location": "Parkville, Missouri",
         "description": "GIS Minor",
         "web": "http://www.park.edu/academics/academic-programs/undergraduate-programs/geography",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -531,7 +552,7 @@
         "location": "Kansas City, Missouri",
         "description": "Advanced GIS Certificate",
         "web": "http://catalog.umkc.edu/colleges-schools/arts-sciences/academic-departments-programs/geosciences/graduate-certificate-program-gis",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -551,7 +572,7 @@
         "location": "Helena, Mont.",
         "description": "GIS Certificate",
         "web": "http://www.carroll.edu/academics/majors/cs/gis",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -571,7 +592,7 @@
         "location": "Missoula, Mont.",
         "description": "GIS certificate",
         "web": "http://www.cas.umt.edu/geography",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -592,7 +613,7 @@
         "description": "AS degree, GIS Certificate",
         "contact": "Angela.Milakovic@bismarckstate.edu",
         "web": "http://www.bismarckstate.edu/academics/programsfi/gis",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -612,7 +633,7 @@
         "location": "Grand Forks, N. Dakota",
         "description": "Graduate Certificate",
         "web": "http://und.edu/academics/extended-learning/online-distance/graduate-certificates/geographic-information-sciences/index.cfm",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -632,7 +653,7 @@
         "location": "Milwaukee, Wisc.",
         "description": "Graduate Certificate",
         "web": "http://www4.uwm.edu/giscertificate",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
@@ -652,7 +673,7 @@
         "location": "Madison, Wisc.",
         "description": "Graduate Certificate",
         "web": "http://www.geography.wisc.edu/GISCertificate",
-        "marker-symbol": "star",
+        "marker-symbol": "college",
         "marker-size": "small",
         "marker-color": "#d85054"
       },
