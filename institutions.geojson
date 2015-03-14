@@ -546,6 +546,46 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Carroll College",
+        "location-code": "US-Montana",
+        "location": "Helena, Mont.",
+        "description": "GIS Certificate",
+        "web": "http://www.carroll.edu/academics/majors/cs/gis",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0388,
+          46.6007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Montana",
+        "location-code": "US-Montana",
+        "location": "Missoula, Mont.",
+        "description": "GIS certificate",
+        "web": "http://www.cas.umt.edu/geography",
+        "marker-symbol": "star",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9822,
+          46.8639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bismark State College",
         "location-code": "US-North Dakota",
         "location": "Bismark, N. Dakota",

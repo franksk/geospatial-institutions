@@ -11,7 +11,7 @@ This list originated as part of the URISA Vanguard Outreach Committee and we hop
 ###How to Edit
 Coming soon, check back shortly!
 
-##Full List *(31)*
+##Full List *(33)*
 
 ###US-Illinois *(10)*
 - Chicago State University
@@ -53,6 +53,10 @@ Coming soon, check back shortly!
 - Northwest Missouri State University
 - Park University
 - University of Missouri-Kansas City
+
+###US-Montana *(2)*
+- Carroll College
+- University of Montana
 
 ###US-Nebraska *(0)*
 
