@@ -5,9 +5,6 @@ Other colleges and universities outside of North America are welcome, too! The u
 
 **_Check out the <a href="http://geospatialem.github.io/geospatial-institutions" target="_blank">interactive map</a> and help make it a 'living map' with us!_**
 
-![GeospatialInstitutionsScreenshot](https://cloud.githubusercontent.com/assets/5023024/6650268/a9bdaba2-c9d6-11e4-91d6-b315d74fcb68.JPG)
-
-
 ##About the Project
 This list <a href="http://www.urisa.org/careers/colleges-and-universities" target="_blank">originated</a> as part of the URISA Vanguard Outreach Committee and we hope to reach out to a larger community to provide a list that will serve throughout the geospatial community! :-P
 
@@ -59,8 +56,7 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 - University of Michigan
 - Western Michigan University
 
-<a href="http://www.mngislis.org/?page=higher_ed_links" target="_blank">
-###US-Minnesota *(14)*</a>
+###<a href="http://www.mngislis.org/?page=higher_ed_links" target="_blank">US-Minnesota</a> *(14)*
 
 - Bemidji State University
 - Carlton College
