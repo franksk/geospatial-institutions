@@ -406,21 +406,126 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Bemidji State University",
+        "location-code": "US-Minnesota",
+        "location": "Bemidji, Minn.",
+        "description": "Undergrad emphasis, GIS minor",
+        "contact": "jueland@bemidjistate.edu",
+        "web": "http://www.bemidjistate.edu/academics/departments/geography",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8760,
+          47.4862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carlton College",
+        "location-code": "US-Minnesota",
+        "location": "Northfield, Minn.",
+        "description": "Bachelor's degree",
+        "contact": "wfu@carleton.edu",
+        "web": "http://apps.carleton.edu/collab/spatial_analysis",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1560,
+          44.4613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fond du Lac Tribal and Community College",
+        "location-code": "US-Minnesota",
+        "location": "Cloquet, Minn.",
+        "description": "Associate degree, GIS certificate",
+        "contact": "ejones@fdltcc.edu",
+        "web": "http://fdltcc.edu/academics/degree-and-certificate-programs/degree-programs/geospatial-technologies",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4472,
+          46.6962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Gustavus Adolphus College",
         "location-code": "US-Minnesota",
         "location": "St. Peter, Minn.",
-        "description": "GIS coursework",
+        "description": "Undergrad emphasis, GIS minor",
         "contact": "averslui@gustavus.edu",
         "web": "https://gustavus.edu/geography",
         "marker-symbol": "college",
         "marker-size": "small",
-        "marker-color": "#ccc"
+        "marker-color": "#d85054"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -93.9708,
           44.3241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Itasca Community College",
+        "location-code": "US-Minnesota",
+        "location": "Grand Rapids, Minn.",
+        "description": "Associate degree",
+        "contact": "Timothy.Fox@itascacc.edu",
+        "web": "http://www.itascacc.edu/academics/area-of-study/gis",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4950,
+          47.2432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Macalaster College",
+        "location-code": "US-Minnesota",
+        "location": "St. Paul, Minn.",
+        "description": "GIS minor",
+        "contact": "barcus@macalester.edu",
+        "web": "http://www.macalester.edu/academics/geography",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1687,
+          44.9397
         ]
       }
     },
