@@ -3,6 +3,8 @@ A compilation of geospatial colleges and universities in North America with a fo
 
 Other colleges and universities outside of North America are welcome, too! The ultimate goal of this project is to include **_all_** geospatial programs available to students around the globe!
 
+**_Check out the <a href="http://geospatialem.github.io/geospatial-institutions" target="_blank">interactive map</a> and help make it a 'living map' with us!_**
+
 ![GeospatialInstitutionsScreenshot](https://cloud.githubusercontent.com/assets/5023024/6650268/a9bdaba2-c9d6-11e4-91d6-b315d74fcb68.JPG)
 
 
