@@ -9,7 +9,7 @@ Other colleges and universities outside of North America are welcome, too! The u
 ##About the Project
 This list <a href="http://www.urisa.org/careers/colleges-and-universities" target="_blank">originated</a> as part of the URISA Vanguard Outreach Committee and we hope to reach out to a larger community to provide a list that will serve throughout the geospatial community! :-P
 
-*__Pull requests welcome!__ We would like to keep this list updated with the latest information. If a new geospatial program has started, a contact has changed, or any other addition/change, please submit a pull request! New to Github? No worries, check out the **_How to Add/Edit Guide_** below* or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a> to get started. :-)
+*__Pull requests welcome!__ We would like to keep this list updated with the latest information. If a new geospatial program has started, a contact has changed, or any other addition/change, please submit a pull request! New to Github? No worries, check out the **How to Add/Edit Guide** below or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a> to get started. :-)*
 
 ###How to: Add/Edit an Institution
 
@@ -17,12 +17,12 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 2. **Update the README.md file, if needed**
 	- Retain the same overall structure seen in the file (*feel free to copy/paste and edit, where needed*). If you are unsure on how to do so, <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a>. :-)
 	- Add in the location, listed in alphabetical order (ie: *US-Alabama*), if needed.
-	- Add in any resources to the location under the header. For an example, see *US-Minnesota*, if known.
+	- If you know of any resources to the location under the header, please add them in for future reference (check out *US-Minnesota* for an example).
 	- Add the institution, listed in alphabetical order underneath the location title.
 2. **Add/edit the institution in the institutions.geojson file**: Add in the *name of the institution* and the *latitude and longitude*. We recommend **<a href="http://itouchmap.com/latlong.html" target="_blank">this awesome site</a>** for getting the latitude/longitude and going **_four_** decimal points deep and try and add in as much supporting information as you can/know.
 3. **Verify your edits**: Ensure the edits you made are accurate, both of the data you are entering and free of any typos. This makes things *much* easier down the road.
 4. **Submit a Pull Request (PR)**: Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-in-github-for-windows" target="_blank">Windows guide</a> on how to submit a request.
-5. **Pat yourself on the back for being all-around awesome (for realz) :-P**
+5. **Pat yourself on the back for being all-around awesome :-P**
 
 
 ##Full List *(44)*
