@@ -20,6 +20,7 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 	- If you know of any resources to the location under the header, please add them in for future reference (check out *US-Minnesota* for an example).
 	- Add the institution, listed in alphabetical order underneath the location title.
 2. **Add/edit the institution in the institutions.geojson file**: Add in the *name of the institution* and the *latitude and longitude*. We recommend **<a href="http://itouchmap.com/latlong.html" target="_blank">this awesome site</a>** for getting the latitude/longitude and going **_four_** decimal points deep and try and add in as much supporting information as you can/know.
+3. **Update the final numbers in the README.md**: For both the location (i.e. *US-Alabama (xx)*) and the overall number (i.e. *Full List (xx)*).
 3. **Verify your edits**: Ensure the edits you made are accurate, both of the data you are entering and free of any typos. This makes things *much* easier down the road.
 4. **Submit a Pull Request (PR)**: Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-in-github-for-windows" target="_blank">Windows guide</a> on how to submit a request.
 5. **Pat yourself on the back for being all-around awesome :-P**
