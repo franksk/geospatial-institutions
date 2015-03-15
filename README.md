@@ -1,9 +1,9 @@
 #Geospatial Institutions
 A compilation of geospatial colleges and universities in North America with a focus on Canada and the United States. 
 
-Other colleges and universities outside of North America are welcome, too! The ultimate goal of this project is to include **_all_** geospatial programs available to students around the globe!<br /><br />
+Other colleges and universities outside of North America are welcome, too! The ultimate goal of this project is to include **_all_** geospatial programs available to students around the globe!
 
-<div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/5023024/6650268/a9bdaba2-c9d6-11e4-91d6-b315d74fcb68.JPG" width="80%" height="80%"></div>
+![GeospatialInstitutionsScreenshot](https://cloud.githubusercontent.com/assets/5023024/6650268/a9bdaba2-c9d6-11e4-91d6-b315d74fcb68.JPG)
 
 
 ##About the Project
