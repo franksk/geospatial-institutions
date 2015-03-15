@@ -386,26 +386,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Anoka-Ramsey Community College",
-        "location-code": "US-Minnesota",
-        "location": "Coon Rapids, Minn.",
-        "description": "AS degree, GIS certificate",
-        "web": "http://www.anokaramsey.edu/classes/CourseDescriptions.aspx?subj=GEOG",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.3514,
-          45.1725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Bemidji State University",
         "location-code": "US-Minnesota",
         "location": "Bemidji, Minn.",

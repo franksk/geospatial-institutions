@@ -25,7 +25,7 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 5. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(44)*
+##Full List *(43)*
 
 ###US-Illinois *(10)*
 - Chicago State University
@@ -57,9 +57,8 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 - Western Michigan University
 
 <a href="http://www.mngislis.org/?page=higher_ed_links" target="_blank">
-###US-Minnesota *(15)*</a>
+###US-Minnesota *(14)*</a>
 
-- Anoka-Ramsey Community College
 - Bemidji State University
 - Carlton College
 - Fond du Lac Tribal and Community College
