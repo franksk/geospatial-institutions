@@ -9,7 +9,7 @@ Other colleges and universities outside of North America are welcome, too! The u
 ##About the Project
 This list <a href="http://www.urisa.org/careers/colleges-and-universities" target="_blank">originated</a> as part of the URISA Vanguard Outreach Committee and we hope to reach out to a larger community to provide a list that will serve throughout the geospatial community! :-P
 
-*__Pull requests welcome!__ We would like to keep this list updated with the latest information. If a new geospatial program has started, a contact has changed, or any other addition/change, please submit a pull request! New to Github? No worries, check out the **How to Add/Edit Guide** below or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a> to get started. :-)*
+*__Pull requests welcome!__ We would like to keep this list updated with the latest information. If a new geospatial program has started, a contact has changed, or any other addition/change, please submit a pull request! New to Github? No worries, check out the guide below or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a> to get started. :-)*
 
 ###How to: Add/Edit an Institution
 
