@@ -535,7 +535,8 @@
         "title": "Minnesota State University, Mankato",
         "location-code": "US-Minnesota",
         "location": "Mankato, Minn.",
-        "description": "GIS certificate",
+        "description": "Minor, GIS certificate",
+        "contact": "rama.mohapatra@mnsu.edu",
         "web": "http://sbs.mnsu.edu/geography",
         "marker-symbol": "college",
         "marker-size": "small",
@@ -552,10 +553,32 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "St. Cloud State University",
+        "location-code": "US-Minnesota",
+        "location": "St. Cloud, Minn.",
+        "description": "Minor, Masters degree",
+        "contact": "bfrichason@stcloudstate.edu",
+        "web": "http://www.stcloudstate.edu/gp",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1542,
+          45.5540
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Saint Mary's University of Minnesota",
         "location-code": "US-Minnesota",
         "location": "Winona, Minn.",
         "description": "GIS certificate, Masters degree",
+        "contact": "jebert@smumn.edu",
         "web": "http://www.gis.smumn.edu",
         "marker-symbol": "college",
         "marker-size": "small",
@@ -572,10 +595,53 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "South Central Community College",
+        "location-code": "US-Minnesota",
+        "location": "North Mankato, Minn.",
+        "description": "GIS certificate",
+        "contact": "willy.mekeel@southcentral.edu",
+        "web": "http://ecatalog.southcentral.edu/CERT3481.php",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0467,
+          44.1741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Southwest Minnesota State University",
+        "location-code": "US-Minnesota",
+        "location": "Marshall, Minn.",
+        "description": "GIS courses",
+        "contact": "kostc@southwestmsu.edu",
+        "web": "http://www.smsu.edu/campuslife/geographicinformationsystems",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7599,
+          44.4541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of Minnesota",
         "location-code": "US-Minnesota",
         "location": "Minneapolis, Minn.",
-        "description": "Masters degree",
+        "description": "Minor, Masters degree",
+        "contact": "mcmas002@umn.edu",
         "web": "http://mgis.umn.edu",
         "marker-symbol": "college",
         "marker-size": "small",
@@ -595,6 +661,7 @@
         "title": "University of Minnesota-Duluth",
         "location-code": "US-Minnesota",
         "location": "Duluth, Minn.",
+        "contact": "slstark@d.umn.edu",
         "description": "GIS Certificate, Bachelors degree: Major, Minor.",
         "web": "http://www.d.umn.edu/geog/main/index.html",
         "marker-symbol": "college",
@@ -606,6 +673,27 @@
         "coordinates": [
           -92.0844,
           46.8170
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of St. Thomas",
+        "location-code": "US-Minnesota",
+        "location": "St. Paul, Minn.",
+        "contact": "dwkelley@stthomas.edu",
+        "description": "GIS Minor.",
+        "web": "http://www.stthomas.edu/geography",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1897,
+          44.9441
         ]
       }
     },
@@ -770,7 +858,7 @@
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "title": "University of Wisconsin-Madison",
@@ -787,6 +875,27 @@
         "coordinates": [
           -89.4142,
           43.0775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Wisconsin-River Falls",
+        "location-code": "US-Wisconsin",
+        "location": "River Falls, Wisc.",
+        "contact": "matthew.renault@uwrf.edu",
+        "description": "GIS minor",
+        "web": "http://www.uwrf.edu/GEOG",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6227,
+          44.8531
         ]
       }
     }

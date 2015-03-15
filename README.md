@@ -13,7 +13,7 @@ This list originated as part of the URISA Vanguard Outreach Committee and we hop
 ###How to Edit
 Coming soon, check back shortly!
 
-##Full List *(39)*
+##Full List *(44)*
 
 ###US-Illinois *(10)*
 - Chicago State University
@@ -44,7 +44,7 @@ Coming soon, check back shortly!
 - University of Michigan
 - Western Michigan University
 
-###US-Minnesota *(11)*
+###US-Minnesota *(15)*
 - Anoka-Ramsey Community College
 - Bemidji State University
 - Carlton College
@@ -53,9 +53,13 @@ Coming soon, check back shortly!
 - Itasca Community College
 - Macalaster College
 - Minnesota State University, Mankato
+- Saint Cloud State University
 - Saint Mary's University of Minnesota
+- South Central Community College
+- Southwest Minnesota State University
 - University of Minnesota
 - University of Minnesota-Duluth
+- University of St. Thomas
 
 ###US-Missouri *(3)*
 - Northwest Missouri State University
@@ -74,6 +78,7 @@ Coming soon, check back shortly!
 
 ###US-South Dakota *(0)*
 
-###US-Wisconsin *(2)*
+###US-Wisconsin *(3)*
 - University of Wisconsin-Milwaukee
 - University of Wisconsin-Madison
+- University of Wisconsin-River Falls
