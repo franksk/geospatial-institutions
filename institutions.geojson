@@ -106,6 +106,26 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Illinois State University",
+        "location-code": "US-Illinois",
+        "location": "Normal, Ill.",
+        "description": "Bachelor degree GIS concentration",
+        "web": "http://geo.illinoisstate.edu/geography",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9923,
+          40.5114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Northern Illinois University",
         "location-code": "US-Illinois",
         "location": "DeKalb, Ill.",

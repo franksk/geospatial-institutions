@@ -25,14 +25,15 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 5. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(43)*
+##Full List *(44)*
 
-###US-Illinois *(10)*
+###US-Illinois *(11)*
 - Chicago State University
 - DePaul University
 - Eastern Illinois University
 - Elmhurst College
 - Harold Washington College
+- Illinois State University
 - Northern Illinois University
 - Roosevelt University
 - University of Illinois-Chicago
