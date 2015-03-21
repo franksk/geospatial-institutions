@@ -10,9 +10,9 @@
         "description": "Graduate certificate",
         "contact": "dblock@csu.edu",
         "web": "http://www.csu.edu",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -30,9 +30,9 @@
         "location": "Chicago, Ill.",
         "description": "GIS certificate",
         "web": "http://www.depaul.edu/Pages/default.aspx",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -52,8 +52,8 @@
         "contact": "mwcornebise@eiu.edu",
         "web": "http://www.eiu.edu/psm",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -71,9 +71,9 @@
         "location": "Elmhurst, Ill.",
         "description": "GIS certificate, Online program",
         "web": "http://public.elmhurst.edu",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -91,9 +91,9 @@
         "location": "Chicago, Ill.",
         "description": "GIS certificate",
         "web": "http://faculty.ccc.edu/colleges/hwashington/physcience/documents/GIS_Cert.pdf",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -112,8 +112,8 @@
         "description": "Bachelor degree GIS concentration",
         "web": "http://geo.illinoisstate.edu/geography",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -132,9 +132,9 @@
         "description": "Undergraduate GIS certificate",
         "contact": "E-Howenstine@neiu.edu",
         "web": "http://www.neiu.edu/academics/programs/geographic-information-systems-gis-graduate-certificate",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -152,9 +152,9 @@
         "location": "DeKalb, Ill.",
         "description": "Undergraduate GIS certificate",
         "web": "http://www.niu.edu/index.shtml",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -172,9 +172,9 @@
         "location": "Chicago, Ill.",
         "description": "Undergraduate & Graduate GIS certificates",
         "web": "http://www.roosevelt.edu/Home.aspx",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -187,14 +187,56 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "University of Illinois-Chicago",
+        "title": "Southern Illinois University",
+        "location-code": "US-Illinois",
+        "location": " Carbondale, Ill.",
+        "description": "Undergraduate GIS minor",
+        "contact": "saduprah@siu.edu",
+        "web": "http://cola.siu.edu/geography/undergraduate/major-specializations/gis.php",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2119,
+          37.7141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Southern Illinois University-Edwardsville",
+        "location-code": "US-Illinois",
+        "location": "Edwardsville, Ill.",
+        "description": "Undergraduate GIS minor",
+        "contact": "stabrow@siue.edu",
+        "web": "http://www.siue.edu/artsandsciences/geography/undergraduate_program.shtml",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9987,
+          38.7937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Illinois at Chicago",
         "location-code": "US-Illinois",
         "location": "Chicago, Ill.",
         "description": "Public Health GIS Online Certificate",
         "web": "http://publichealth.uic.edu/academics/certificates/publichealthgeographicinformationsystems",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -207,20 +249,41 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "University of Illinois-Springfield",
+        "title": "University of Illinois at Springfield",
         "location-code": "US-Illinois",
         "location": "Springfield, Ill.",
         "description": "Graduate Certificate",
         "web": "http://www.uis.edu/gis",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -89.6152,
           39.7259
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Illinois at Urbana-Champaign",
+        "location-code": "US-Illinois",
+        "location": "Urbana, Ill.",
+        "description": "Bachelor and Master degree",
+        "web": "http://www.geog.illinois.edu",
+        "contact": "shaowen@illinois.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2206,
+          40.1083
         ]
       }
     },
@@ -232,9 +295,9 @@
         "location": "Aurora, Ill.",
         "description": "Graduate Certificate",
         "web": "http://www.waubonsee.edu",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -253,8 +316,8 @@
         "description": "Master degree",
         "web": "http://www.iupui.edu/academics/degrees-majors/index.html?degree=geographic%20information%20science",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -273,8 +336,8 @@
         "description": "AS degree, GIS certificate",
         "web": "http://www.kirkwood.edu/site/index.php?d=684",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -293,8 +356,8 @@
         "description": "BA degree, MA degree, GIS certificate",
         "web": "http://www.uni.edu/csbs/geography",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -312,9 +375,9 @@
         "location": "Manhattan, Kan.",
         "description": "Bachelor and Master certificates",
         "web": "http://www.k-state.edu",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -333,8 +396,8 @@
         "description": "BA degree",
         "web": "http://geog.ku.edu",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -352,9 +415,9 @@
         "location": "Big Rapids, Mich.",
         "description": "GIS certificate",
         "web": "http://www.ferris.edu",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -373,8 +436,8 @@
         "description": "Bachelor degree, Master degree, Online",
         "web": "http://www.msu.edu",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -392,9 +455,9 @@
         "location": "Ann Arbor, Mich.",
         "description": "Spatial analysis certificate",
         "web": "http://cscar.research.umich.edu",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -413,8 +476,8 @@
         "description": "Bachelors degree, Masters degree",
         "web": "http://www.wmich.edu/academics/undergraduate/geography",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -434,8 +497,8 @@
         "contact": "jueland@bemidjistate.edu",
         "web": "http://www.bemidjistate.edu/academics/departments/geography",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -455,8 +518,8 @@
         "contact": "wfu@carleton.edu",
         "web": "http://apps.carleton.edu/collab/spatial_analysis",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -476,8 +539,8 @@
         "contact": "ejones@fdltcc.edu",
         "web": "http://fdltcc.edu/academics/degree-and-certificate-programs/degree-programs/geospatial-technologies",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -497,8 +560,8 @@
         "contact": "averslui@gustavus.edu",
         "web": "https://gustavus.edu/geography",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -518,8 +581,8 @@
         "contact": "Timothy.Fox@itascacc.edu",
         "web": "http://www.itascacc.edu/academics/area-of-study/gis",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -539,8 +602,8 @@
         "contact": "barcus@macalester.edu",
         "web": "http://www.macalester.edu/academics/geography",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -560,8 +623,8 @@
         "contact": "rama.mohapatra@mnsu.edu",
         "web": "http://sbs.mnsu.edu/geography",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -581,8 +644,8 @@
         "contact": "bfrichason@stcloudstate.edu",
         "web": "http://www.stcloudstate.edu/gp",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -602,8 +665,8 @@
         "contact": "jebert@smumn.edu",
         "web": "http://www.gis.smumn.edu",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -622,9 +685,9 @@
         "description": "GIS certificate",
         "contact": "willy.mekeel@southcentral.edu",
         "web": "http://ecatalog.southcentral.edu/CERT3481.php",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -644,8 +707,8 @@
         "contact": "kostc@southwestmsu.edu",
         "web": "http://www.smsu.edu/campuslife/geographicinformationsystems",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -665,8 +728,8 @@
         "contact": "mcmas002@umn.edu",
         "web": "http://mgis.umn.edu",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -686,8 +749,8 @@
         "description": "GIS Certificate, Bachelors degree: Major, Minor.",
         "web": "http://www.d.umn.edu/geog/main/index.html",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -707,8 +770,8 @@
         "description": "GIS Minor.",
         "web": "http://www.stthomas.edu/geography",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -727,8 +790,8 @@
         "description": "Online Masters degree",
         "web": "http://www.nwmissouri.edu/socialsciences/msgis/index.htm",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -747,8 +810,8 @@
         "description": "GIS Minor",
         "web": "http://www.park.edu/academics/academic-programs/undergraduate-programs/geography",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -766,9 +829,9 @@
         "location": "Kansas City, Missouri",
         "description": "Advanced GIS Certificate",
         "web": "http://catalog.umkc.edu/colleges-schools/arts-sciences/academic-departments-programs/geosciences/graduate-certificate-program-gis",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -786,9 +849,9 @@
         "location": "Helena, Mont.",
         "description": "GIS Certificate",
         "web": "http://www.carroll.edu/academics/majors/cs/gis",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -806,9 +869,9 @@
         "location": "Missoula, Mont.",
         "description": "GIS certificate",
         "web": "http://www.cas.umt.edu/geography",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -828,8 +891,8 @@
         "contact": "Angela.Milakovic@bismarckstate.edu",
         "web": "http://www.bismarckstate.edu/academics/programsfi/gis",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",
@@ -848,9 +911,9 @@
         "contact": "Enru.Wang@und.edu",
         "description": "Graduate Certificate",
         "web": "http://und.edu/academics/extended-learning/online-distance/graduate-certificates/geographic-information-sciences/index.cfm",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -868,9 +931,9 @@
         "location": "Milwaukee, Wisc.",
         "description": "Graduate Certificate",
         "web": "http://www4.uwm.edu/giscertificate",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -888,9 +951,9 @@
         "location": "Madison, Wisc.",
         "description": "Graduate Certificate",
         "web": "http://www.geography.wisc.edu/GISCertificate",
-        "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
       },
       "geometry": {
         "type": "Point",
@@ -910,8 +973,8 @@
         "description": "GIS minor",
         "web": "http://www.uwrf.edu/GEOG",
         "marker-symbol": "college",
-        "marker-size": "small",
-        "marker-color": "#d85054"
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
       },
       "geometry": {
         "type": "Point",

@@ -12,22 +12,34 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 
 ###How to: Add/Edit an Institution
 
-1. **<a href="https://help.github.com/articles/fork-a-repo" target="_blank">Fork</a> this project to your Guthub account**: If you don't have a Github account, definitely <a href="https://github.com/join" target="_blank">get one</a>. We promise you won't regret it! Once you get one, or if you're already set up, fork this project. :-)
-2. **Update the README.md file, if needed**
-	- Retain the same overall structure seen in the file (*feel free to copy/paste and edit, where needed*). If you are unsure on how to do so, <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a>. :-)
-	- Add in the location, listed in alphabetical order (ie: *US-Alabama*), if needed.
-	- If you know of any resources to the location under the header, please add them in for future reference (check out *US-Minnesota* for an example).
-	- Add the institution, listed in alphabetical order underneath the location title.
-2. **Add/edit the institution in the institutions.geojson file**: Add in the *name of the institution* and the *latitude and longitude*. We recommend **<a href="http://itouchmap.com/latlong.html" target="_blank">this awesome site</a>** for getting the latitude/longitude and going **_four_** decimal points deep and try and add in as much supporting information as you can/know.
-3. **Update the final numbers in the README.md**: For both the location (i.e. *US-Alabama (xx)*) and the overall number (i.e. *Full List (xx)*).
-3. **Verify your edits**: Ensure the edits you made are accurate, both of the data you are entering and free of any typos. This makes things *much* easier down the road.
-4. **Submit a Pull Request (PR)**: Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-in-github-for-windows" target="_blank">Windows guide</a> on how to submit a request.
-5. **Pat yourself on the back for being all-around awesome :-P**
+1. **<a href="https://help.github.com/articles/fork-a-repo" target="_blank">Fork</a> this project to your Guthub account**:   
+If you don't have a Github account, definitely <a href="https://github.com/join" target="_blank">get one</a>. We promise you won't regret it! Once you get one, or if you're already set up, fork this project. :-)
+
+2. **Update the README.md file, if needed:**  
+	• Retain the same overall structure seen in the file (*feel free to copy/paste and edit, where needed*). If you are unsure on how to do so, <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a>. :-)  
+	• Add in the location, listed in alphabetical order (ie: *US-Alabama*), if needed.  
+	• If you know of any resources to the location under the header, please add them in for future reference (check out *US-Minnesota* for an example).  
+	• Add the institution, listed in alphabetical order underneath the location title.   
+  
+3. **Add/edit the institution in the institutions.geojson file**:   
+	• Add in the *name of the institution* and the *latitude and longitude*. We recommend <a href="http://itouchmap.com/latlong.html" target="_blank">this awesome site</a> for getting the latitude/longitude and going **_four_** decimal points deep and try and add in as much supporting information as you can/know.  
+	• If the school offers a *program*, the marker-symbol should be set to *school* and *red*  (e.g. `"marker-symbol": "school", "marker-color": "#ef8a62"`) and if the school offers a *certificate*, the marker-symbol should be set to *library* and *blue* (e.g. `"marker-symbol": "library", "marker-color": "#5ab4ac"`).    
+  
+4. **Update the final numbers in the README.md**:  
+For both the location (i.e. *US-Alabama (xx)*) and the overall number (i.e. *Full List (xx)*).
+
+5. **Verify your edits**:  
+Ensure the edits you made are accurate, both of the data you are entering and free of any typos. This makes things *much* easier down the road.
+
+6. **Submit a Pull Request (PR)**:  
+Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-in-github-for-windows" target="_blank">Windows guide</a> on how to submit a request.
+
+7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(45)*
+##Full List *(48)*
 
-###US-Illinois *(12)*
+###US-Illinois *(15)*
 - Chicago State University
 - DePaul University
 - Eastern Illinois University
@@ -37,8 +49,11 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 - Northeastern Illinois University
 - Northern Illinois University
 - Roosevelt University
-- University of Illinois-Chicago
-- University of Illinois-Springfield
+- Southern Illinois University
+- Southern Illinois University-Edwardsville
+- University of Illinois at Chicago
+- University of Illinois at Springfield
+- University of Illinois at Urbana-Champaign
 - Waubonsee Community College
 
 ###US-Indiana *(1)*
