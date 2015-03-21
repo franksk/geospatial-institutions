@@ -126,6 +126,27 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Northeastern Illinois University",
+        "location-code": "US-Illinois",
+        "location": "Chicago, Ill.",
+        "description": "Undergraduate GIS certificate",
+        "contact": "E-Howenstine@neiu.edu",
+        "web": "http://www.neiu.edu/academics/programs/geographic-information-systems-gis-graduate-certificate",
+        "marker-symbol": "college",
+        "marker-size": "small",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7186,
+          41.9814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Northern Illinois University",
         "location-code": "US-Illinois",
         "location": "DeKalb, Ill.",
