@@ -10,7 +10,7 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 
 *__Pull requests welcome!__ We would like to keep this list updated with the latest information. If a new geospatial program has started, a contact has changed, or any other addition/change, please submit a pull request! New to Github? No worries, check out the guide below or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a> to get started. :-)*
 
-###How to: Add/Edit an Institution
+##How to Add/Edit an Institution
 
 1. **<a href="https://help.github.com/articles/fork-a-repo" target="_blank">Fork</a> this project to your Guthub account**:   
 If you don't have a Github account, definitely <a href="https://github.com/join" target="_blank">get one</a>. We promise you won't regret it! Once you get one, or if you're already set up, fork this project. :-)
@@ -23,7 +23,7 @@ If you don't have a Github account, definitely <a href="https://github.com/join"
   
 3. **Add/edit the institution in the institutions.geojson file**:   
 	• Add in the *name of the institution* and the *latitude and longitude*. We recommend <a href="http://itouchmap.com/latlong.html" target="_blank">this awesome site</a> for getting the latitude/longitude and going **_four_** decimal points deep and try and add in as much supporting information as you can/know.  
-	• If the school offers a *program*, the marker-symbol should be set to *school* and *red*  (e.g. `"marker-symbol": "school", "marker-color": "#ef8a62"`) and if the school offers a *certificate*, the marker-symbol should be set to *library* and *blue* (e.g. `"marker-symbol": "library", "marker-color": "#5ab4ac"`).    
+	• If the school offers a *program*, the marker-symbol should be set to *college* and *red*  (e.g. `"marker-symbol": "college", "marker-color": "#ef8a62"`) and if the school offers a *certificate*, the marker-symbol should be set to *library* and *blue* (e.g. `"marker-symbol": "library", "marker-color": "#5ab4ac"`).    
   
 4. **Update the final numbers in the README.md**:  
 For both the location (i.e. *US-Alabama (xx)*) and the overall number (i.e. *Full List (xx)*).
@@ -37,17 +37,22 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(48)*
+##Full List *(55)*
 
-###US-Illinois *(15)*
+###US-Illinois *(22)*
+- Augustana College
 - Chicago State University
 - DePaul University
 - Eastern Illinois University
 - Elmhurst College
 - Harold Washington College
 - Illinois State University
+- Judson University
+- Loyola University Chicago
+- Olivet Nazarene University
 - Northeastern Illinois University
 - Northern Illinois University
+- Northwestern University
 - Roosevelt University
 - Southern Illinois University
 - Southern Illinois University-Edwardsville
@@ -55,6 +60,8 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - University of Illinois at Springfield
 - University of Illinois at Urbana-Champaign
 - Waubonsee Community College
+- Western Illinois University
+- Wheaton College
 
 ###US-Indiana *(1)*
 - Indiana University-Purdue University Indianapolis

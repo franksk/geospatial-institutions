@@ -4,6 +4,27 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Augustana College",
+        "location-code": "US-Illinois",
+        "location": "Rock Island, Ill.",
+        "description": "Bachelor degree",
+        "contact": "reubenheine@augustana.edu",
+        "web": "http://www.augustana.edu/academics/majors--areas-of-study/geography",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5472,
+          41.5051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Chicago State University",
         "location-code": "US-Illinois",
         "location": "Chicago, Ill.",
@@ -71,6 +92,7 @@
         "location": "Elmhurst, Ill.",
         "description": "GIS certificate, Online program",
         "web": "http://public.elmhurst.edu",
+        "contact": "richs@elmhurst.edu",
         "marker-symbol": "library",
         "marker-size": "medium",
         "marker-color": "#5ab4ac"
@@ -126,6 +148,47 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Judson State University",
+        "location-code": "US-Illinois",
+        "location": "Elgin, Ill.",
+        "description": "GIS coursework",
+        "web": "http://www.judsonu.edu/content.aspx?id=1710",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2908,
+          42.0601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Loyola University Chicago",
+        "location-code": "US-Illinois",
+        "location": "Chicago, Ill.",
+        "description": "GIS coursework",
+        "web": "http://www.luc.edu/sustainability/initiatives/gis",
+        "contact": "dgoldb2@luc.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6577,
+          41.9985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Northeastern Illinois University",
         "location-code": "US-Illinois",
         "location": "Chicago, Ill.",
@@ -151,6 +214,7 @@
         "location-code": "US-Illinois",
         "location": "DeKalb, Ill.",
         "description": "Undergraduate GIS certificate",
+        "contact": "akrmenec@niu.edu",
         "web": "http://www.niu.edu/index.shtml",
         "marker-symbol": "library",
         "marker-size": "medium",
@@ -167,11 +231,52 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Northernwestern University",
+        "location-code": "US-Illinois",
+        "location": "Evanston, Ill.",
+        "description": "Undergraduate coursework",
+        "web": "http://www.geography.northwestern.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6745,
+          42.0497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olivet Nazarene University",
+        "location-code": "US-Illinois",
+        "location": "Bourbonnais, Ill.",
+        "description": "Bachelor degree",
+        "web": "http://www.olivet.edu/academics/geography",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8685,
+          41.1588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Roosevelt University",
         "location-code": "US-Illinois",
         "location": "Chicago, Ill.",
         "description": "Undergraduate & Graduate GIS certificates",
         "web": "http://www.roosevelt.edu/Home.aspx",
+        "contact": "lbailey@roosevelt.edu",
         "marker-symbol": "library",
         "marker-size": "medium",
         "marker-color": "#5ab4ac"
@@ -232,6 +337,7 @@
         "title": "University of Illinois at Chicago",
         "location-code": "US-Illinois",
         "location": "Chicago, Ill.",
+        "contact": "gis@lists.uchicago.edu",
         "description": "Public Health GIS Online Certificate",
         "web": "http://publichealth.uic.edu/academics/certificates/publichealthgeographicinformationsystems",
         "marker-symbol": "library",
@@ -253,6 +359,7 @@
         "location-code": "US-Illinois",
         "location": "Springfield, Ill.",
         "description": "Graduate Certificate",
+        "contact": "druez2@uis.edu",
         "web": "http://www.uis.edu/gis",
         "marker-symbol": "library",
         "marker-size": "medium",
@@ -307,6 +414,48 @@
         ]
       }
     }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Western Illinois University",
+        "location-code": "US-Illinois",
+        "location": "Macomb, Ill.",
+        "description": "Undergraduate minor, Graduate certificate",
+        "contact": "GISCenter@wiu.edu",
+        "web": "http://www.wiu.edu/cas/geography",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6836,
+          40.4642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wheaton College",
+        "location-code": "US-Illinois",
+        "location": "Wheaton, Ill.",
+        "description": "Undergraduate coursework",
+        "contact": "Stephen.Moshier@wheaton.edu",
+        "web": "http://www.wheaton.edu/Academics/Departments/Geology",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0995,
+          41.8684
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
