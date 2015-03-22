@@ -1,18 +1,23 @@
-html, body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
+/***********************/
+/*       01. Map      */
+/*********************/
+html, body { margin: 0; padding: 0; height: 100%; }
+#map-container { height: 100%; }
 
-#map-container {
-  height: 100%;
-}
+/***********************/
+/* 02. Leaflet Search */
+/*********************/
+.search-input, .search-tooltip { width: 300px; }
+.leaflet-control-search .search-cancel { position: static; float: left; margin-left: -22px; }
 
-.leaflet-popup-content p {margin-bottom: 0; font-size: 13px; text-align: center;}
-.leaflet-popup-content {background: #757575; color: #fff; border-color: #fff; border-radius:12px; margin: 6px;}
-.leaflet-popup-content-wrapper {border-radius: 12px; background: #fff; color: #fff;}
-.leaflet-popup-content a {color: #33CCCC;}
-.leaflet-popup-content h3 {font-size:22px;text-align: center;}
-.leaflet-popup-content a:hover {color: #66FFFF;}
-.leaflet-popup-tip {border-top: 10px solid #fff;}
-.leaflet-popup-close-button {background-color: #fff; border-radius:12px; z-index: 99;}
+/***********************/
+/* 03. Leaflet Pop-up */
+/*********************/
+.leaflet-popup-content p {margin-bottom: 0; font-size: 13px; text-align: center; }
+.leaflet-popup-content {background: #757575; color: #fff; border-color: #fff; border-radius:12px; margin: 6px; }
+.leaflet-popup-content-wrapper {border-radius: 12px; background: #fff; color: #fff; }
+.leaflet-popup-content a {color: #33CCCC; }
+.leaflet-popup-content h3 {font-size:22px;text-align: center; }
+.leaflet-popup-content a:hover {color: #66FFFF; }
+.leaflet-popup-tip {border-top: 10px solid #fff; }
+.leaflet-popup-close-button {background-color: #fff; border-radius:12px; z-index: 99; }

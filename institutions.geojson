@@ -1075,26 +1075,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "University of Wisconsin-Milwaukee",
-        "location-code": "US-Wisconsin",
-        "location": "Milwaukee, Wisc.",
-        "description": "Graduate Certificate",
-        "web": "http://www4.uwm.edu/giscertificate",
-        "marker-symbol": "library",
-        "marker-size": "medium",
-        "marker-color": "#5ab4ac"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.8794,
-          43.0798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "University of Wisconsin-Madison",
         "location-code": "US-Wisconsin",
         "location": "Madison, Wisc.",
@@ -1109,6 +1089,26 @@
         "coordinates": [
           -89.4142,
           43.0775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Wisconsin-Milwaukee",
+        "location-code": "US-Wisconsin",
+        "location": "Milwaukee, Wisc.",
+        "description": "Graduate Certificate",
+        "web": "http://www4.uwm.edu/giscertificate",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8794,
+          43.0798
         ]
       }
     },

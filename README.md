@@ -49,10 +49,10 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - Illinois State University
 - Judson University
 - Loyola University Chicago
-- Olivet Nazarene University
 - Northeastern Illinois University
 - Northern Illinois University
 - Northwestern University
+- Olivet Nazarene University
 - Roosevelt University
 - Southern Illinois University
 - Southern Illinois University-Edwardsville
@@ -95,7 +95,7 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - Southwest Minnesota State University
 - University of Minnesota
 - University of Minnesota-Duluth
-- University of St. Thomas
+- University of Saint Thomas
 
 ###US-Missouri *(3)*
 - Northwest Missouri State University
@@ -115,6 +115,6 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 ###US-South Dakota *(0)*
 
 ###US-Wisconsin *(3)*
-- University of Wisconsin-Milwaukee
 - University of Wisconsin-Madison
+- University of Wisconsin-Milwaukee
 - University of Wisconsin-River Falls
