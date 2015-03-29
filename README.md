@@ -37,7 +37,16 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(55)*
+##Full List *(62)*
+
+###US-Alabama *(7)*
+- Alabama A&M University 
+- Auburn University
+- Jacksonville State University
+- Troy University
+- University of Alabama
+- University of North Alabama
+- University of South Alabama
 
 ###US-Illinois *(22)*
 - Augustana College

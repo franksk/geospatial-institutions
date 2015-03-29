@@ -4,6 +4,153 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Alabama A&M University",
+        "location-code": "US-Alabama",
+        "location": "Normal, Alab.",
+        "description": "Minor in Remote Sensing and GIS",
+        "contact": "wubishet.tadesse@aamu.edu",
+        "web": "http://www.aamu.edu/academics/alns/bes/dprograms/pages/default.aspx",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5732,
+          34.7850
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Auburn University",
+        "location-code": "US-Alabama",
+        "location": "Auburn, Alab.",
+        "description": "Bachelor degree, Master degree",
+        "contact": "delaine.tease@auburn.edu",
+        "web": "http://www.auburn.edu/academic/cosam/departments/geosciences/academics",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4880,
+          32.6036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jacksonsville State University",
+        "location-code": "US-Alabama",
+        "location": "Jacksonville, Alab.",
+        "description": "Bachelor degree, Minor, Graduate certificate",
+        "contact": "mhill@jsu.edu",
+        "web": "http://www.jsu.edu/pes/geography",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7660,
+          33.8225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Troy University",
+        "location-code": "US-Alabama",
+        "location": "Troy, Alab.",
+        "description": "Bachelor degree, Minor",
+        "contact": "sramroop@troy.edu",
+        "web": "http://trojan.troy.edu/artsandsciences/mathematicsandphysics/geomatics",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9572,
+          31.7994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Alabama",
+        "location-code": "US-Alabama",
+        "location": "Tuscaloosa, Alab.",
+        "description": "Bachelor degree, Master degree",
+        "contact": "douglas.j.sherman@ua.edu",
+        "web": "http://geography.ua.edu/about/research/geographic-information-science",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5408,
+          33.2108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of North Alabama",
+        "location-code": "US-Alabama",
+        "location": "Florence, Alab.",
+        "description": "Bachelor degree, Master degree",
+        "contact": "ftkoti@una.edu",
+        "web": "http://www.una.edu/geography/index.html",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6790,
+          34.8085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of South Alabama",
+        "location-code": "US-Alabama",
+        "location": "Mobile, Alab.",
+        "description": "Bachelor degree, Minor",
+        "contact": "mfearn@southalabama.edu",
+        "web": "http://www.usouthal.edu/earthsci/geo/index.html",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1797,
+          30.6970
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Augustana College",
         "location-code": "US-Illinois",
         "location": "Rock Island, Ill.",
