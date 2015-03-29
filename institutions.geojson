@@ -67,6 +67,46 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Lawson State Community College",
+        "location-code": "US-Alabama",
+        "location": "Birmingham, Alab.",
+        "description": "Associate degree",
+        "web": "http://www.lawsonstate.edu/programs_of_study/lscc_programs/technical_division/manufacturing_technology/geographic_information_systems.aspx",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8895,
+          33.4510
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Samford University",
+        "location-code": "US-Alabama",
+        "location": "Birmingham, Alab.",
+        "description": "Bachelor degree, Minor",
+        "web": "http://howard.samford.edu/geography/content.aspx?id=2147486404",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7920,
+          33.4656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Troy University",
         "location-code": "US-Alabama",
         "location": "Troy, Alab.",
