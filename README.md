@@ -37,7 +37,7 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(64)*
+##Full List *(67)*
 
 ###US-Alabama *(9)*
 - Alabama A&M University 
@@ -84,6 +84,11 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 ###US-Kansas *(2)*
 - Kansas State University
 - University of Kansas
+
+###US-Kentucky *(3)*
+- Bluegrass Community and Technical College
+- Hazard Community and Technical College
+- Western Kentucky University
 
 ###US-Michigan *(4)*
 - Ferris State University

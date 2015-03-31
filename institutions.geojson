@@ -746,6 +746,68 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Bluegrass Community and Technical College",
+        "location-code": "US-Kentucky",
+        "location": "Lexington, Ken.",
+        "description": "GIS Certificate",
+        "web": "http://bluegrass.kctcs.edu/en/academics/programs_of_study/geographic_information_systems_technology.aspx",
+        "contact": "ryan.kelly@kctcs.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5024,
+          38.0245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hazard Community and Technical College",
+        "location-code": "US-Kentucky",
+        "location": "Hazard, Ken.",
+        "description": "GIS Certificate",
+        "web": "http://www.hazard.kctcs.edu/en/Academics/Programs_of_Study/Computer_Aided_Drafting_and_Design.aspx",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1766,
+          37.2356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Western Kentucky University",
+        "location-code": "US-Kentucky",
+        "location": "Bowling Green, Ken.",
+        "description": "Bachelor degree, Master degree",
+        "web": "http://www.wku.edu/gis",
+        "contact": "kevin.cary@wku.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4520,
+          36.9868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ferris State University",
         "location-code": "US-Michigan",
         "location": "Big Rapids, Mich.",
