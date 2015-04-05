@@ -767,6 +767,27 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Eastern Kentucky University",
+        "location-code": "US-Kentucky",
+        "location": "Richmond, Ken.",
+        "description": "Undergraduate minor, GIS certificate",
+        "web": "http://geoscience.eku.edu/degree-requirements#certificate",
+        "contact": "melissa.dieckmann@eku.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3036,
+          37.7378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Hazard Community and Technical College",
         "location-code": "US-Kentucky",
         "location": "Hazard, Ken.",
@@ -781,6 +802,110 @@
         "coordinates": [
           -83.1766,
           37.2356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Morehead State University",
+        "location-code": "US-Kentucky",
+        "location": "Morehead, Ken.",
+        "description": "Undergraduate Certificate",
+        "web": "http://irapp.moreheadstate.edu/rands/giscertificate",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4356,
+          38.1865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Murray State University",
+        "location-code": "US-Kentucky",
+        "location": "Murray, Ken.",
+        "description": "Undergraduate degree, Graduate certificate",
+        "web": "http://www.murraystate.edu",
+        "contact": "robin.zhang@murraystate.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3237,
+          36.6124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northern Kentucky University",
+        "location-code": "US-Kentucky",
+        "location": "Highland Heights, Ken.",
+        "description": "Undergraduate and Graduate certificate",
+        "web": "http://informatics.nku.edu/departments/computer-science/programs/cgis.html",
+        "contact": "wangh1@nku.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4589,
+          39.0335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Kentucky",
+        "location-code": "US-Kentucky",
+        "location": "Lexington, Ken.",
+        "description": "Bachelor degree, Graduate research",
+        "web": "https://geography.as.uky.edu",
+        "contact": "jcrampton@uky.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5048,
+          38.0389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Louisville",
+        "location-code": "US-Kentucky",
+        "location": "Louisville, Ken.",
+        "description": "Bachelor degree",
+        "web": "http://louisville.edu/geography/undergraduate/programs-and-degrees.html",
+        "contact": "rwforb01@louisville.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7619,
+          38.2158
         ]
       }
     },
