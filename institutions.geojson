@@ -1658,6 +1658,26 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "South Dakota State University",
+        "location-code": "US-South Dakota",
+        "location": "Brookings, S. Dakota",
+        "description": "Bachelor degree, Minor, Certificate",
+        "web": "http://www.sdstate.edu/geo/programs/index.cfm",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7783,
+          44.3185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of Wisconsin-Madison",
         "location-code": "US-Wisconsin",
         "location": "Madison, Wisc.",

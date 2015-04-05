@@ -37,7 +37,7 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(83)*
+##Full List *(84)*
 
 ###US-Alabama *(9)*
 - Alabama A&M University 
@@ -150,7 +150,8 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - Bismark State College
 - University of North Dakota
 
-###US-South Dakota *(0)*
+###US-South Dakota *(1)*
+- South Dakota State University
 
 ###US-Wisconsin *(3)*
 - University of Wisconsin-Madison
