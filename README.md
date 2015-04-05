@@ -37,7 +37,7 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(77)*
+##Full List *(83)*
 
 ###US-Alabama *(9)*
 - Alabama A&M University 
@@ -49,6 +49,16 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - University of Alabama
 - University of North Alabama
 - University of South Alabama
+
+###US-Alaska *(3)*
+- University of Alaska-Anchorage
+- University of Alaska-Fairbanks
+- University of Alaska Southeast
+
+###US-Arizona *(3)*
+- Mesa Community College
+- Northern Arizona University
+- University of Arizona
 
 ###US-Arkansas *(4)*
 - Arkansas State University-Jonesboro

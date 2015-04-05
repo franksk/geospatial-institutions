@@ -191,6 +191,131 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "University of Alaska-Anchorage",
+        "location-code": "US-Alaska",
+        "location": "Anchorage, Alaska",
+        "description": "Bachelor degree, GIS certificate",
+        "contact": "ggienko@uaa.alaska.edu",
+        "web": "http://www.uaa.alaska.edu/collegeofengineering/programs/geomatics/programs/cgis",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8236,
+          61.1909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Alaska-Fairbanks",
+        "location-code": "US-Alaska",
+        "location": "Fairbanks, Alaska",
+        "description": "Bachelor degree",
+        "web": "http://www.uaf.edu/geology/geography",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.8374,
+          64.8598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Alaska Southeast",
+        "location-code": "US-Alaska",
+        "location": "Juneau, Alaska",
+        "description": "Bachelor degree",
+        "web": "http://www.uas.alaska.edu/arts_sciences/naturalsciences/geography",
+        "contact": "arts.sciences@uas.alaska.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6392,
+          58.3844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mesa Community College",
+        "location-code": "US-Arizona",
+        "location": "Mesa, Ariz.",
+        "description": "Associate degree",
+        "web": "http://www.mesacc.edu/departments/cultural-science/geography",
+        "contact": "karen.blevins@mesacc.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8720,
+          33.3916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northern Arizona University",
+        "location-code": "US-Arizona",
+        "location": "Flagstaff, Ariz.",
+        "description": "Bachelor degree, Master degree, Graduate certificate",
+        "web": "http://nau.edu/sbs/gpr",
+        "contact": "geog@nau.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6526,
+          35.1898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Arizona",
+        "location-code": "US-Arizona",
+        "location": "Tucson, Ariz.",
+        "description": "Graduate certificate",
+        "web": "http://snre.arizona.edu/academics/prospective-students/certificates",
+        "contact": "khughes@email.arizona.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9516,
+          32.2303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Arkansas State University-Jonesboro",
         "location-code": "US-Arkansas",
         "location": "Jonesboro, Ark.",

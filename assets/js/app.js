@@ -4,7 +4,7 @@ var map = new L.mapbox.Map('map-container', 'hockeyduck30.ldbmm85b', {
 	  infoControl        : false,
 	  attributionControl : false, //Disable Attribution
 	  center             : [39.2282, -98.5795], //Center of the Continental U.S.
-	  zoom               : 4 //Zoom for the Continental U.S.
+	  zoom               : 3 //Zoom for the Continental U.S. [+ Alaska, too!]
 });
 
 //Add the GeoJSON to a Marker Cluster Group
