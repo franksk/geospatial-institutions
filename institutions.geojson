@@ -191,6 +191,90 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Arkansas State University-Jonesboro",
+        "location-code": "US-Arkansas",
+        "location": "Jonesboro, Ark.",
+        "description": "Undergraduate coursework",
+        "contact": "bstroud@astate.edu",
+        "web": "http://www.astate.edu/college/humanities-and-social-sciences/departments/criminology-sociology-and-geography",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6770,
+          35.8430
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arkansas Tech University",
+        "location-code": "US-Arkansas",
+        "location": "Russellville, Ark.",
+        "description": "Undergraduate coursework",
+        "contact": "jmusser@atu.edu",
+        "web": "http://www.atu.edu/academics/catalog/descriptions/course_desc_page.php?subj=GEOG",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1382,
+          35.2950
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Arkansas-Fayetteville",
+        "location-code": "US-Arkansas",
+        "location": "Fayetteville, Ark.",
+        "description": "Bachelor degree",
+        "contact": "tcenter@uark.edu",
+        "web": "http://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/geography",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1738,
+          36.0687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Central Arkansas",
+        "location-code": "US-Arkansas",
+        "location": "Conway, Ark.",
+        "description": "Masters degree (online)",
+        "web": "http://uca.edu/geography/master-of-gis",
+        "contact": "geography@uca.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4542,
+          35.0792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Augustana College",
         "location-code": "US-Illinois",
         "location": "Rock Island, Ill.",
