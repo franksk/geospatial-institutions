@@ -37,7 +37,7 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(84)*
+##Full List *(86)*
 
 ###US-Alabama *(9)*
 - Alabama A&M University 
@@ -65,6 +65,10 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - Arkansas Tech University
 - University of Arkansas-Fayetteville
 - University of Central Arkansas
+
+###US-California *(2)*
+- University of Redlands
+- University of Southern California
 
 ###US-Illinois *(22)*
 - Augustana College

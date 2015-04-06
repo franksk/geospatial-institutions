@@ -400,6 +400,48 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "University of Redlands",
+        "location-code": "US-California",
+        "location": "Redlands, Cali.",
+        "description": "Master's degree",
+        "web": "http://spatial.redlands.edu",
+        "contact": "mark_kumler@redlands.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1661,
+          34.0653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Southern California",
+        "location-code": "US-California",
+        "location": "Los Angeles, Cali.",
+        "description": "Bachelor degree, Graduate certificate",
+        "web": "http://spatial.usc.edu",
+        "contact": "jswift@usc.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2852,
+          34.0197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Augustana College",
         "location-code": "US-Illinois",
         "location": "Rock Island, Ill.",
