@@ -15,15 +15,15 @@ Based on a list compiled annually by <a href="http://www.justinholman.com/2015/0
 
 **Best overall programs:** Arizona State University, Clark University, Michigan State University, Ohio State University, Pennsylvania State University, State University of New York at Buffalo, University of Arizona, University of California-Santa Barbara, University of Colorado-Boulder, University of Illinois at Urbana-Champaign, University of Kentucky, University of Minnesota-Twin Cities, University of North Carolina at Chapel Hill, University of Oregon, University of South Carolina-Columbia, and University of Wisconsin-Madison
 
-**GIScience/computation programs:** George Mason University, San Diego State University, University of Iowa, University of Maine, and University of Texas at Dallas.
+**Best GIScience/computation programs:** George Mason University, San Diego State University, University of Iowa, University of Maine, and University of Texas at Dallas.
 
-**Cartography/visualization programs:** Oregon State University, Pennsylvania State University, University of Kansas, University of Oregon, and University of Wisconsin-Madison.
+**Best cartography/visualization programs:** Oregon State University, Pennsylvania State University, University of Kansas, University of Oregon, and University of Wisconsin-Madison.
 
-**Remote sensing programs:** Boston University, University of Georgia, and University of Maryland-College Park.
+**Best remote sensing programs:** Boston University, University of Georgia, and University of Maryland-College Park.
 
-**Spatial analysis/statistics programs:** Arizona State University, Ohio State University, State University of New York at Buffalo, and University of Texas at Dallas
+**Best spatial analysis/statistics programs:** Arizona State University, Ohio State University, State University of New York at Buffalo, and University of Texas at Dallas
 
-**Online/hybrid programs (Master's only):** Pennsylvania State University, and University of Southern California.
+**Best online/hybrid programs (Master's only):** Pennsylvania State University, and University of Southern California.
 
 ##How to Add/Edit an Institution
 
@@ -151,8 +151,8 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - Saint Mary's University of Minnesota
 - South Central Community College
 - Southwest Minnesota State University
-- University of Minnesota
 - University of Minnesota-Duluth
+- University of Minnesota-Twin Cities
 - University of Saint Thomas
 
 ###US-Missouri *(3)*
