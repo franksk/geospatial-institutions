@@ -21,6 +21,9 @@ $.getJSON("institutions.geojson", function(data) {
 		    if (feature.properties.title) {
 		      html += '<h3>' + feature.properties.title + '</h3>';
 		    }
+		    if (feature.properties.ranking) {
+		    	html += '<b><i><p>*'+ feature.properties.ranking + '*</b></i></p>';
+		    }
 		    if (feature.properties.location) {
 		        html += '<p>'+ feature.properties.location + '</p>';
 		    }

@@ -10,6 +10,21 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 
 *__Pull requests welcome!__ We would like to keep this list updated with the latest information. If a new geospatial program has started, a contact has changed, or any other addition/change, please submit a pull request! New to Github? No worries, check out the guide below or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a> to get started. :-)*
 
+##2015 Rankings
+Based on a list compiled annually by <a href="http://www.justinholman.com/2015/01/13/2015-rankings-top-graduate-geography-programs-for-spatial-careers">Justin Holman</a>. The rankings are as follows (listed in alphabetical order):
+
+**Best overall programs:** Arizona State University, Clark University, Michigan State University, Ohio State University, Pennsylvania State University, State University of New York at Buffalo, University of Arizona, University of California-Santa Barbara, University of Colorado-Boulder, University of Illinois at Urbana-Champaign, University of Kentucky, University of Minnesota-Twin Cities, University of North Carolina at Chapel Hill, University of Oregon, University of South Carolina-Columbia, and University of Wisconsin-Madison
+
+**GIScience/computation programs:** George Mason University, San Diego State University, University of Iowa, University of Maine, and University of Texas at Dallas.
+
+**Cartography/visualization programs:** Oregon State University, Pennsylvania State University, University of Kansas, University of Oregon, and University of Wisconsin-Madison.
+
+**Remote sensing programs:** Boston University, University of Georgia, and University of Maryland-College Park.
+
+**Spatial analysis/statistics programs:** Arizona State University, Ohio State University, State University of New York at Buffalo, and University of Texas at Dallas
+
+**Online/hybrid programs (Master's only):** Pennsylvania State University, and University of Southern California.
+
 ##How to Add/Edit an Institution
 
 1. **<a href="https://help.github.com/articles/fork-a-repo" target="_blank">Fork</a> this project to your Guthub account**:   
@@ -37,7 +52,7 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(86)*
+##Full List *(87)*
 
 ###US-Alabama *(9)*
 - Alabama A&M University 
@@ -55,7 +70,8 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - University of Alaska-Fairbanks
 - University of Alaska Southeast
 
-###US-Arizona *(3)*
+###US-Arizona *(4)*
+- Arizona State University
 - Mesa Community College
 - Northern Arizona University
 - University of Arizona

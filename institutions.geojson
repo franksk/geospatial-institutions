@@ -253,6 +253,28 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Arizona State University",
+        "location-code": "US-Arizona",
+        "location": "Tempe, Ariz.",
+        "description": "Bachelor degree, Master degree, Certificate",
+        "web": "https://geoplan.asu.edu",
+        "contact": "geoplan@asu.edu",
+		"ranking": "2015 Best Overall & Spatial Analysis Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9281,
+          33.4235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Mesa Community College",
         "location-code": "US-Arizona",
         "location": "Mesa, Ariz.",
@@ -301,6 +323,7 @@
         "description": "Graduate certificate",
         "web": "http://snre.arizona.edu/academics/prospective-students/certificates",
         "contact": "khughes@email.arizona.edu",
+        "ranking": "2015 Best Overall Program",
         "marker-symbol": "library",
         "marker-size": "medium",
         "marker-color": "#5ab4ac"
@@ -427,6 +450,7 @@
         "description": "Bachelor degree, Graduate certificate",
         "web": "http://spatial.usc.edu",
         "contact": "jswift@usc.edu",
+        "ranking": "2015 Best Online/Hybrid Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -820,6 +844,7 @@
         "description": "Bachelor and Master degree",
         "web": "http://www.geog.illinois.edu",
         "contact": "shaowen@illinois.edu",
+        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -982,6 +1007,7 @@
         "location": "Lawrence, Kan.",
         "description": "BA degree",
         "web": "http://geog.ku.edu",
+        "ranking": "2015 Best Cartography/Visualization Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1127,6 +1153,7 @@
         "description": "Bachelor degree, Graduate research",
         "web": "https://geography.as.uky.edu",
         "contact": "jcrampton@uky.edu",
+        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1209,6 +1236,7 @@
         "location": "East Lansing, Mich.",
         "description": "Bachelor degree, Master degree, Online",
         "web": "http://www.msu.edu",
+        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1495,12 +1523,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "University of Minnesota",
+        "title": "University of Minnesota-Twin Cities",
         "location-code": "US-Minnesota",
         "location": "Minneapolis, Minn.",
         "description": "Minor, Masters degree",
         "contact": "mcmas002@umn.edu",
         "web": "http://mgis.umn.edu",
+        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1725,6 +1754,7 @@
         "location": "Madison, Wisc.",
         "description": "Graduate Certificate",
         "web": "http://www.geography.wisc.edu/GISCertificate",
+        "ranking": "2015 Best Overall & Cartography/Visualization Program",
         "marker-symbol": "library",
         "marker-size": "medium",
         "marker-color": "#5ab4ac"
