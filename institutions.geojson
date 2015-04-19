@@ -1439,6 +1439,27 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Minnesota State University, Moorhead",
+        "location-code": "US-Minnesota",
+        "location": "Moorhead, Minn.",
+        "description": "Minor, GIS certificate",
+        "contact": "dalanri@mnstate.edu",
+        "web": "http://www.mnstate.edu/anthearth/majorsandminors.aspx",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7594,
+          46.8671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "St. Cloud State University",
         "location-code": "US-Minnesota",
         "location": "St. Cloud, Minn.",

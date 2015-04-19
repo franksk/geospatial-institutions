@@ -11,7 +11,7 @@ This list <a href="http://www.urisa.org/careers/colleges-and-universities" targe
 *__Pull requests welcome!__ We would like to keep this list updated with the latest information. If a new geospatial program has started, a contact has changed, or any other addition/change, please submit a pull request! New to Github? No worries, check out the guide below or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a> to get started. :-)*
 
 ##2015 Rankings
-Based on a list compiled annually by <a href="http://www.justinholman.com/2015/01/13/2015-rankings-top-graduate-geography-programs-for-spatial-careers">Justin Holman</a>. The rankings are as follows (listed in alphabetical order):
+Based on a list compiled annually by <a href="http://www.justinholman.com/2015/01/13/2015-rankings-top-graduate-geography-programs-for-spatial-careers" target="_blank">Justin Holman</a>. The rankings are as follows (listed in alphabetical order):
 
 **Best overall programs:** Arizona State University, Clark University, Michigan State University, Ohio State University, Pennsylvania State University, State University of New York at Buffalo, University of Arizona, University of California-Santa Barbara, University of Colorado-Boulder, University of Illinois at Urbana-Champaign, University of Kentucky, University of Minnesota-Twin Cities, University of North Carolina at Chapel Hill, University of Oregon, University of South Carolina-Columbia, and University of Wisconsin-Madison
 
@@ -46,13 +46,13 @@ For both the location (i.e. *US-Alabama (xx)*) and the overall number (i.e. *Ful
 5. **Verify your edits**:  
 Ensure the edits you made are accurate, both of the data you are entering and free of any typos. This makes things *much* easier down the road.
 
-6. **Submit a Pull Request (PR)**:  
-Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-in-github-for-windows" target="_blank">Windows guide</a> on how to submit a request.
+6. **Submit a <a href="https://help.github.com/articles/creating-a-pull-request" target="_blank">Pull Request</a> (PR)**:  
+Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-request" target="_blank">Windows guide</a> on how to submit a request.
 
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(87)*
+##Full List *(88)*
 
 ###US-Alabama *(9)*
 - Alabama A&M University 
@@ -138,7 +138,7 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - University of Michigan
 - Western Michigan University
 
-###<a href="http://www.mngislis.org/?page=higher_ed_links" target="_blank">US-Minnesota</a> *(14)*
+###<a href="http://www.mngislis.org/?page=higher_ed_links" target="_blank">US-Minnesota</a> *(15)*
 
 - Bemidji State University
 - Carlton College
@@ -147,6 +147,7 @@ Need help? Here's a <a href="https://github.com/blog/1969-create-pull-requests-i
 - Itasca Community College
 - Macalaster College
 - Minnesota State University, Mankato
+- Minnesota State University, Moorhead
 - Saint Cloud State University
 - Saint Mary's University of Minnesota
 - South Central Community College
