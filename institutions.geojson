@@ -423,6 +423,94 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "University of Colorado-Boulder",
+        "location-code": "US-Colorado",
+        "location": "Boulder, Colo.",
+        "description": "Bachelor degree",
+        "web": "http://geography.colorado.edu",
+        "contact": "emily.yeh@colorado.edu",
+        "ranking": "2015 Best Overall Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2663,
+          40.0068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Georgia",
+        "location-code": "US-Georgia",
+        "location": "Athens, Georg.",
+        "description": "Bachelor degree, Graduate certificate",
+        "web": "http://geography.uga.edu",
+        "contact": "mulan@uga.edu",
+        "ranking": "2015 Best Remote Sensing Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3753,
+          33.948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Diego State University",
+        "location-code": "US-California",
+        "location": "San Diego, Cali.",
+        "description": "Bachelor, Master and PhD degrees",
+        "web": "http://geography.sdsu.edu",
+        "contact": "pjankows@mail.sdsu.edu",
+        "ranking": "2015 Best GIScience Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0686,
+          32.7766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of California-Santa Barbara",
+        "location-code": "US-California",
+        "location": "Santa Barbara, Cali.",
+        "description": "Bachelor degree",
+        "web": "http://www.geog.ucsb.edu",
+        "contact": "geog-web@ucsb.edu",
+        "ranking": "2015 Best Overall Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8489,
+          34.4139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of Redlands",
         "location-code": "US-California",
         "location": "Redlands, Cali.",
@@ -962,6 +1050,28 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "University of Iowa",
+        "location-code": "US-Iowa",
+        "location": "Iowa City, Iowa",
+        "description": "Bachelor degree, Master degree",
+        "web": "http://clas.uiowa.edu/geography",
+        "contact": "geography@uiowa.edu",
+        "ranking": "2015 Best GIScience Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5548,
+          41.6629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of Northern Iowa",
         "location-code": "US-Iowa",
         "location": "Cedar Falls, Iowa",
@@ -1205,6 +1315,94 @@
         "coordinates": [
           -86.4520,
           36.9868
+        ]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Maine",
+        "location-code": "US-Maine",
+        "location": "Orono, Maine",
+        "description": "Master degree, Certificate",
+        "web": "https://spatial.umaine.edu",
+        "contact": "karen.kidder@umit.maine.edu",
+        "ranking": "2015 Best GIScience Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6690,
+          44.9021
+        ]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Maryland-College Park",
+        "location-code": "US-Maryland",
+        "location": "College Park, Mary.",
+        "description": "Bachelor, Master and PhD degrees",
+        "web": "http://www.geog.umd.edu",
+        "contact": "cjustice@umd.edu",
+        "ranking": "2015 Best Remote Sensing Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9427,
+          38.9879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Boston University",
+        "location-code": "US-Massachusetts",
+        "location": "Boston, Mass.",
+        "description": "Bachelor degree, Master degree",
+        "web": "http://www.bu.edu/earth/research/geographical-sciences",
+        "contact": "earth@bu.edu",
+        "ranking": "2015 Best Remote Sensing Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1045,
+          42.3501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark University",
+        "location-code": "US-Massachusetts",
+        "location": "Worcester, Mass.",
+        "description": "Bachelor degree, Master degree",
+        "web": "http://www.clarku.edu/departments/geography",
+        "contact": "geography@clarku.edu",
+        "ranking": "2015 Best Overall Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8232,
+          42.2508
         ]
       }
     },
@@ -1708,6 +1906,28 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "University of North Carolina at Chapel Hill",
+        "location-code": "US-North Carolina",
+        "location": "Chapel Hill, N. Carolina",
+        "description": "Bachelor degree, Graduate certificate",
+        "contact": "geography@unc.edu",
+        "web": "http://geography.unc.edu",
+        "ranking": "2015 Best Overall Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0470,
+          35.9052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bismark State College",
         "location-code": "US-North Dakota",
         "location": "Bismark, N. Dakota",
@@ -1750,6 +1970,116 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "State University of New York at Buffalo",
+        "location-code": "US-New York",
+        "location": "Buffalo, NY",
+        "description": "Bachelor degree, Master degree",
+        "contact": "geosbs@buffalo.edu",
+        "web": "http://www.buffalo.edu/cas/geography.html",
+        "ranking": "2015 Best Overall & Spatial Analysis Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7839,
+          43.0008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ohio State University",
+        "location-code": "US-Ohio",
+        "location": "Columbus, Ohio",
+        "description": "Bachelor degree, Master degree",
+        "contact": "geog_webmaster@osu.edu",
+        "web": "http://geography.osu.edu",
+        "ranking": "2015 Best Overall & Spatial Analysis Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0123,
+          40.0006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oregon State University",
+        "location-code": "US-Oregon",
+        "location": "Corvallis, Ore.",
+        "description": "Bachelor degree, Master degree",
+        "contact": "kuuipo.walsh@oregonstate.edu",
+        "web": "http://ceoas.oregonstate.edu/academics/geography",
+        "ranking": "2015 Best Cartography/Visualization Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2788,
+          44.5639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Oregon",
+        "location-code": "US-Oregon",
+        "location": "Eugene, Ore.",
+        "description": "Bachelor degree, Master degree",
+        "contact": "uogeog@uoregon.edu",
+        "web": "http://geography.uoregon.edu",
+        "ranking": "2015 Best Overall & Cartography Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0781,
+          44.0451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of South Carolina-Columbia",
+        "location-code": "US-South Carolina",
+        "location": "Columbia, S. Carolina",
+        "description": "Bachelor, Master and PhD degrees",
+        "web": "http://artsandsciences.sc.edu/geog",
+        "contact": "jkupfer@mailbox.sc.edu",
+        "ranking": "2015 Best Overall Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0257,
+          33.9960
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "South Dakota State University",
         "location-code": "US-South Dakota",
         "location": "Brookings, S. Dakota",
@@ -1767,6 +2097,72 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania State University",
+        "location-code": "US-Pennsylvania",
+        "location": "University Park, Penn.",
+        "description": "Graduate degree, Online program",
+        "web": "http://www.worldcampus.psu.edu/degrees-and-certificates/geographic-information-systems-gis-masters",
+        "ranking": "2015 Best Overall, Cartography & Online Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8611,
+          40.7981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Texas at Dallas",
+        "location-code": "US-Texas",
+        "location": "Richardson, Tex.",
+        "description": "Bachelor, Master and PhD degrees",
+        "web": "https://www.utdallas.edu/epps/geospatial-science",
+        "contact": "ffqiu@utdallas.edu",
+        "ranking": "2015 Best GIScience & Spatial Analysis Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7494,
+          32.9849
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "George Mason University",
+        "location-code": "US-Virginia",
+        "location": "Fairfax, Virg.",
+        "description": "Bachelor degree, Master degree",
+        "web": "http://ggs.gmu.edu",
+        "contact": "ggs@gmu.edu",
+        "ranking": "2015 Best GIScience Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3043,
+          38.8262
+        ]
+      }
+    },
+   
     {
       "type": "Feature",
       "properties": {

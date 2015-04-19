@@ -47,12 +47,12 @@ For both the location (i.e. *US-Alabama (xx)*) and the overall number (i.e. *Ful
 Ensure the edits you made are accurate, both of the data you are entering and free of any typos. This makes things *much* easier down the road.
 
 6. **Submit a <a href="https://help.github.com/articles/creating-a-pull-request" target="_blank">Pull Request</a> (PR)**:  
-Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-request" target="_blank">Windows guide</a> on how to submit a request.
+Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-request" target="_blank">Windows guide</a> on how to submit a request, or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a>!
 
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(88)*
+##Full List *(106)*
 
 ###US-Alabama *(9)*
 - Alabama A&M University 
@@ -82,9 +82,17 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - University of Arkansas-Fayetteville
 - University of Central Arkansas
 
-###US-California *(2)*
+###US-California *(4)*
+- San Diego State University
+- University of California-Santa Barbara
 - University of Redlands
 - University of Southern California
+
+###US-Colorado *(1)*
+- University of Colorado-Boulder
+
+###US-Georgia *(1)*
+- University of Georgia
 
 ###US-Illinois *(22)*
 - Augustana College
@@ -113,8 +121,9 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 ###US-Indiana *(1)*
 - Indiana University-Purdue University Indianapolis
 
-###US-Iowa *(2)*
+###US-Iowa *(3)*
 - Kirkwood Community College
+- University of Iowa
 - University of Northern Iowa
 
 ###US-Kansas *(2)*
@@ -131,6 +140,16 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - University of Kentucky
 - University of Louisville
 - Western Kentucky University
+
+###US-Maine *(1)*
+- University of Maine
+
+###US-Maryland *(1)*
+- University of Maryland-College Park
+
+###US-Massachusetts *(2)*
+- Boston University
+- Clark University
 
 ###US-Michigan *(4)*
 - Ferris State University
@@ -167,12 +186,37 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 
 ###US-Nebraska *(0)*
 
+###US-New York *(1)*
+- State University of New York at Buffalo
+
+###US-Ohio *(1)*
+- Ohio State University
+
+###US-Oregon *(2)*
+- Oregon State University
+- University of Oregon
+
+###US-North Carolina *(1)*
+- University of North Carolina at Chapel Hill
+
 ###US-North Dakota *(2)*
 - Bismark State College
 - University of North Dakota
 
+###US-Pennsylvania *(1)*
+- Pennsylvania State University
+
+###US-South Carolina *(1)*
+- University of South Carolina-Columbia
+
 ###US-South Dakota *(1)*
 - South Dakota State University
+
+###US-Texas *(1)*
+- University of Texas at Dallas
+
+###US-Virginia *(1)*
+- George Mason University
 
 ###US-Wisconsin *(3)*
 - University of Wisconsin-Madison
