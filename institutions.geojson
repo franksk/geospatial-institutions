@@ -423,6 +423,90 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Colorado Mesa University",
+        "location-code": "US-Colorado",
+        "location": "Grand Junction, Colo.",
+        "description": "Minor",
+        "web": "http://www.coloradomesa.edu/gist",
+        "contact": "jcurtsinger@coloradomesa.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5536,
+          39.0789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Emily Griffith Technical College",
+        "location-code": "US-Colorado",
+        "location": "Denver, Colo.",
+        "description": "Associate degree",
+        "web": "http://www.emilygriffith.edu/geographic-information-systems",
+        "contact": "Chris_Millius@dpsk12.org",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9857,
+          39.7457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fort Lewis College",
+        "location-code": "US-Colorado",
+        "location": "Durango, Colo.",
+        "description": "Undergraduate Certificate",
+        "web": "https://www.fortlewis.edu/geosciences",
+        "contact": "gonzales_d@fortlewis.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8710,
+          37.2738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Front Range Community College",
+        "location-code": "US-Colorado",
+        "location": "Longmont, Colo.",
+        "description": "Associate certificate",
+        "web": "http://www.frontrange.edu/programs-and-courses/academic-programs/geographic-information-systems-gis",
+        "contact": "Dave.Skiles@frontrange.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1300,
+          40.1385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of Colorado-Boulder",
         "location-code": "US-Colorado",
         "location": "Boulder, Colo.",
@@ -439,6 +523,48 @@
         "coordinates": [
           -105.2663,
           40.0068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Colorado-Denver",
+        "location-code": "US-Colorado",
+        "location": "Denver, Colo.",
+        "description": "Masters degree, Graduate certificate",
+        "web": "http://www.ucdenver.edu/academics/colleges/Engineering/Programs/Civil-Engineering/DegreePrograms/SpecialtyAreas/Pages/geomatics.aspx",
+        "contact": "civilengineering@ucdenver.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9833,
+          39.7452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Denver",
+        "location-code": "US-Colorado",
+        "location": "Denver, Colo.",
+        "description": "Bachelor degree, Master degree, Graduate certificate",
+        "web": "http://www.du.edu/nsm/departments/geography/index.html",
+        "contact": "geog-info@du.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9631,
+          39.6744
         ]
       }
     },

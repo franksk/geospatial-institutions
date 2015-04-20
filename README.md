@@ -52,7 +52,7 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-##Full List *(106)*
+##Full List *(112)*
 
 ###US-Alabama *(9)*
 - Alabama A&M University 
@@ -88,8 +88,14 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - University of Redlands
 - University of Southern California
 
-###US-Colorado *(1)*
+###US-Colorado *(7)*
+- Colorado Mesa University
+- Emily Griffith Technical College
+- Fort Lewis College
+- Front Range Community College
 - University of Colorado-Boulder
+- University of Colorado-Denver
+- University of Denver
 
 ###US-Georgia *(1)*
 - University of Georgia
