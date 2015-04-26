@@ -2288,7 +2288,278 @@
         ]
       }
     },
-   
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bellingham Technical College",
+        "location-code": "US-Washington",
+        "location": "Bellingham, Wash.",
+        "description": "Associate degree",
+        "web": "http://www.btc.ctc.edu/DegreesClasses/Programs/ProgramDetails.aspx?ID=61",
+        "contact": "cbrod@btc.ctc.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5128,
+          48.7656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central Washington University",
+        "location-code": "US-Washington",
+        "location": "Ellensburg, Wash.",
+        "description": "Bachelor degree",
+        "web": "http://www.cwu.edu/geography",
+        "contact": "rhickey@cwu.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5406,
+          47.0024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Centralia College",
+        "location-code": "US-Washington",
+        "location": "Centralia, Wash.",
+        "description": "Undergraduate Certificate",
+        "web": "http://www.centralia.edu/academics/EdPlanners/PROFGIS.html",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9607,
+          46.7153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eastern Washington University",
+        "location-code": "US-Washington",
+        "location": "Cheney, Wash.",
+        "description": "Bachelor degree, Undergrad Certificate",
+        "web": "http://www.ewu.edu/csbssw/programs/geography",
+        "contact": "lknoles35@ewu.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5811,
+          47.4924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Everett Community College",
+        "location-code": "US-Washington",
+        "location": "Everett, Wash.",
+        "description": "Associate degree",
+        "web": "http://www.everettcc.edu/programs/communications/gis",
+        "contact": "klyste@everettcc.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2047,
+          48.0065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Evergreen State College",
+        "location-code": "US-Washington",
+        "location": "Olympia, Wash.",
+        "description": "Bachelor degree",
+        "web": "http://www.evergreen.edu/studies/fields/home?f=geography",
+        "contact": "ruthm@evergreen.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9742,
+          47.0693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green River Community College",
+        "location-code": "US-Washington",
+        "location": "Auburn, Wash.",
+        "description": "Associate Degree",
+        "web": "http://www.instruction.greenriver.edu/gis/index.htm",
+        "contact": "sjabbouri@greenriver.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1790,
+          47.3134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olympic College",
+        "location-code": "US-Washington",
+        "location": "Bremerton, Wash.",
+        "description": "Associate Degree",
+        "web": "http://www.olympic.edu/technical-design-gis-technology-certificate-proficiency",
+        "contact": "gnewman@olympic.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6352,
+          47.5752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Skagit Valley College",
+        "location-code": "US-Washington",
+        "location": "Mount Vernon, Wash.",
+        "description": "Undergraduate Certificate",
+        "web": "http://www.skagit.edu/directory.asp_Q_pagenumber_E_197",
+        "contact": "Claus.Svendsen@skagit.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3102,
+          48.4373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Washington-Seattle",
+        "location-code": "US-Washington",
+        "location": "Seattle, Wash.",
+        "description": "Bachelor degree, Master degree and PhD degree",
+        "web": "http://depts.washington.edu/geog",
+        "contact": "jarosz@u.washington.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3106,
+          47.6564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Washington-Tacoma",
+        "location-code": "US-Washington",
+        "location": "Tacoma, Wash.",
+        "description": "Undergraduate certificate, Master degree",
+        "web": "http://www.tacoma.uw.edu/urban-studies/geographic-information-systems-gis-certificate",
+        "contact": "modarres@u.washington.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4379,
+          47.2443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Washington State University",
+        "location-code": "US-Washington",
+        "location": "Pullman, Wash.",
+        "description": "Undergraduate minor",
+        "web": "http://admission.wsu.edu/academics/fos/Public/field.castle?id=41700",
+        "contact": "kerrybrooks@wsu.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1547,
+          46.7318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Western Washington University",
+        "location-code": "US-Washington",
+        "location": "Bellingham, Wash.",
+        "description": "Undergraduate minor",
+        "web": "http://catalog.wwu.edu/preview_program.php?catoid=9&poid=4006",
+        "contact": "michael.medler@wwu.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4867,
+          48.7377
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
