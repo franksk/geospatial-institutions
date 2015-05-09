@@ -3,7 +3,7 @@ A compilation of geospatial colleges and universities in North America with a fo
 
 Other colleges and universities outside of North America are welcome, too! The ultimate goal of this project is to include **_all_** geospatial programs available to students around the globe!
 
-**_Check out the <a href="http://geospatialem.github.io/geospatial-institutions" target="_blank">interactive map</a> and help make it a 'living map' with us!_**
+**_Check out the <a href="http://urisavc.github.io/geospatial-institutions" target="_blank">interactive map</a> and help make it a 'living map' with us!_**
 
 ## About the Project
 This list <a href="http://www.urisa.org/careers/colleges-and-universities" target="_blank">originated</a> as part of the URISA Vanguard Outreach Committee and we hope to reach out to a larger community to provide a list that will serve throughout the geospatial community! :-P
