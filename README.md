@@ -52,7 +52,7 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-## Full List *(125)*
+## Full List *(130)*
 
 ### US-Alabama *(9)*
 - Alabama A&M University 
@@ -97,8 +97,13 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - University of Colorado-Denver
 - University of Denver
 
-### US-Georgia *(1)*
+### US-Georgia *(6)*
+- Central Georgia Technical College
+- Georgia State University
+- Kennesaw State University
+- Ogeechee Technical College
 - University of Georgia
+- University of North Georgia
 
 ### US-Illinois *(22)*
 - Augustana College
