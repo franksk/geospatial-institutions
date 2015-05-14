@@ -3,6 +3,7 @@ L.mapbox.accessToken = 'pk.eyJ1IjoiaG9ja2V5ZHVjazMwIiwiYSI6InE4cmFHNlUifQ.X5m_TS
 var map = new L.mapbox.Map('map-container', 'hockeyduck30.ldbmm85b', {
 	  infoControl        : false,
 	  attributionControl : false, //Disable Attribution
+	  zoomControl		 : false, //Disable Zoom Control to add Home Button with +/-
 	  center             : [39.2282, -98.5795], //Center of the Continental U.S.
 	  zoom               : 3 //Zoom for the Continental U.S. [+ Alaska, too!]
 });
@@ -41,5 +42,8 @@ $.getJSON("institutions.geojson", function(data) {
   });
   institutionsLayer.addLayer(geojson); //Add the GeoJSON to the map
 });
+
+var zoomHome = L.Control.zoomHome(); // Add Zoom Control w/ Home Button
+zoomHome.addTo(map);
 
 map.addControl(new L.Control.Search({layer: institutionsLayer})); //Leaflet search control

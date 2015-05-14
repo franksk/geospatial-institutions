@@ -11,6 +11,11 @@ html, body { margin: 0; padding: 0; height: 100%; }
 .leaflet-control-search .search-cancel { position: static; float: left; margin-left: -22px; }
 
 /***********************/
+/*  02. Home Button   */
+/*********************/
+.leaflet-control-zoomhome a { font: bold 18px "Lucida Console",Monaco,monospace; text-align: center; }
+
+/***********************/
 /* 03. Leaflet Pop-up */
 /*********************/
 .leaflet-popup-content p {margin-bottom: 0; font-size: 13px; text-align: center; }
