@@ -571,6 +571,153 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Florida Atlantic University",
+        "location-code": "US-Florida",
+        "location": "Boca Raton, Florida",
+        "description": "Bachelor degree, minor",
+        "web": "http://www.geosciences.fau.edu",
+        "contact": "xie@fau.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1032,
+          26.3704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Florida International University",
+        "location-code": "US-Florida",
+        "location": "Miami, Florida",
+        "description": "Graduate certificate",
+        "web": "http://gis.fiu.edu",
+        "contact": "fujen@fiu.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3819,
+          25.7567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Florida State University",
+        "location-code": "US-Florida",
+        "location": "Tallahassee, Florida",
+        "description": "Masters degree",
+        "web": "http://coss.fsu.edu/geography",
+        "contact": "SWL2727@fsu.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2963,
+          30.4425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Florida",
+        "location-code": "US-Florida",
+        "location": "Gainesville, Florida",
+        "description": "Bachelor degree",
+        "web": "http://geog.ufl.edu",
+        "contact": "mbinford@ufl.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3437,
+          29.6489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Miami",
+        "location-code": "US-Florida",
+        "location": "Miami, Florida",
+        "description": "Graduate certificate",
+        "web": "http://www.as.miami.edu/geography/index.html",
+        "contact": "terghazar@miami.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2785,
+          25.7241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of South Florida",
+        "location-code": "US-Florida",
+        "location": "Tampa Bay, Florida",
+        "description": "Graduate certificate",
+        "web": "http://health.usf.edu/publichealth/gh/GIS+Infectionous+Diseases/index.htm",
+        "contact": "rkirby@health.usf.edu",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4261,
+          28.0633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of West Florida",
+        "location-code": "US-Florida",
+        "location": "Pensacola, Florida",
+        "description": "Masters degree (online), Graduate certificate",
+        "web": "http://uwf.edu/offices/geodata-center",
+        "contact": "gisonline@uwf.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2212,
+          30.5308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Central Georgia Technical College",
         "location-code": "US-Georgia",
         "location": "Macon, Georg.",
