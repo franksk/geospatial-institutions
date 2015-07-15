@@ -2499,6 +2499,86 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Cheyney University of Pennsylvania",
+        "location-code": "US-Pennsylvania",
+        "location": "Cheyney, Penn.",
+        "description": "Bachelor degree",
+        "web": "http://www.cheyney.edu/social-behavioral-sciences/BS-in-Geographic-Information-Science.cfm",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5293,
+          39.9322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Community College of Philadelphia",
+        "location-code": "US-Pennsylvania",
+        "location": "Philadelphia, Penn.",
+        "description": "Associate Certificate",
+        "web": "http://www.ccp.edu/college-catalog/degree-and-certificate-programs/proficiency-certificates/geographic-information",
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#5ab4ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1665,
+          39.9627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harrisburg University",
+        "location-code": "US-Pennsylvania",
+        "location": "Harrisburg, Penn.",
+        "description": "Bachelor degree",
+        "web": "http://www.harrisburgu.net/academics/undergrad/gis",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8803,
+          40.2619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Indiana University of Pennsylvania",
+        "location-code": "US-Pennsylvania",
+        "location": "Indiana, Penn.",
+        "description": "Bachelor degree",
+        "web": "http://www.iup.edu/georegionalplan/undergrad/geography/majors/default.aspx",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1582,
+          40.6171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Pennsylvania State University",
         "location-code": "US-Pennsylvania",
         "location": "University Park, Penn.",
@@ -2514,6 +2594,48 @@
         "coordinates": [
           -77.8611,
           40.7981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shippensburg University",
+        "location-code": "US-Pennsylvania",
+        "location": "Shippensburg, Penn.",
+        "description": "Bachelor degree",
+        "web": "http://www.ship.edu/Academics/Programs/Undergraduate/Geography",
+        "contact": "geog@ship.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5223,
+          40.0579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Pennsylvania",
+        "location-code": "US-Pennsylvania",
+        "location": "Philadelphia, Penn.",
+        "description": "Master degree",
+        "web": "http://www.design.upenn.edu/interdisciplinary-programs/master-urban-spatial-analytics",
+        "contact": "ahillier@design.upenn.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1928,
+          39.9521
         ]
       }
     },

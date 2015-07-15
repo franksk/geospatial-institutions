@@ -52,7 +52,7 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-## Full List *(137)*
+## Full List *(144)*
 
 ### US-Alabama *(9)*
 - Alabama A&M University 
@@ -223,8 +223,15 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - Bismark State College
 - University of North Dakota
 
-### US-Pennsylvania *(1)*
+### US-Pennsylvania *(8)*
+- California University of Pennsylvania
+- Cheyney University of Pennsylvania
+- Community College of Philadelphia
+- Harrisburg University
+- Indiana University of Pennsylvania 
 - Pennsylvania State University
+- Shippensburg University
+- University of Pennsylvania
 
 ### US-South Carolina *(1)*
 - University of South Carolina-Columbia
