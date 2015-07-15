@@ -2478,6 +2478,27 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "California University of Pennsylvania",
+        "location-code": "US-Pennsylvania",
+        "location": "California, Penn.",
+        "description": "Bachelor degree",
+        "web": "http://www.calu.edu/academics/programs/geography",
+        "contact": "mueller@calu.edu",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8934,
+          40.0622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Pennsylvania State University",
         "location-code": "US-Pennsylvania",
         "location": "University Park, Penn.",
