@@ -264,3 +264,5 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - University of Wisconsin-Madison
 - University of Wisconsin-Milwaukee
 - University of Wisconsin-River Falls
+
+### US-Wyoming *(0)*
