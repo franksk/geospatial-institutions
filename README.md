@@ -6,7 +6,10 @@ Other colleges and universities outside of North America are welcome, too! The u
 **_Check out the <a href="http://urisavc.github.io/geospatial-institutions" target="_blank">interactive map</a> and help make it a 'living map' with us!_**
 
 ## About the Project
-This list <a href="http://www.urisa.org/careers/colleges-and-universities" target="_blank">originated</a> as part of the URISA Vanguard Outreach Committee and we hope to reach out to a larger community to provide a list that will serve throughout the geospatial community! :-P
+Two lists originated as part of the URISA Vanguard Outreach Committee and we hope to reach out to a larger community to provide a list that will serve throughout the geospatial community! The two lists are:  
+
+1. [URISA's Colleges and Universities](http://www.urisa.org/careers/colleges-and-universities), URISA website
+2. [URISA Vanguard Cabinet Compiled List](http://bit.ly/urisavc_universities), Google spreadsheet
 
 *__Pull requests welcome!__ We would like to keep this list updated with the latest information. If a new geospatial program has started, a contact has changed, or any other addition/change, please submit a pull request! New to Github? No worries, check out the guide below or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a> to get started. :-)*
 
