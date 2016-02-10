@@ -1,6 +1,27 @@
 {
   "type": "FeatureCollection",
   "features": [
+  {
+      "type": "Feature",
+      "properties": {
+        "title": "British Columbia Institute of Technology (BCIT)",
+        "location-code": "CAN-British Columbia",
+        "location": "Burnaby, British Columbia",
+        "description": "Advnaced Diploma in GIS",
+        "contact": "hao_wang@bcit.ca",
+        "web": "http://www.bcit.ca/study/programs/9100fadvdip",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0025,
+          49.2509
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
