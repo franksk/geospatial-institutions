@@ -57,6 +57,11 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 
 ## Full List *(147)*
 
+### CAN-British Columbia *(3)*
+- British Columbia Institute of Technology (BCIT)
+- Simon Fraser University
+- University of British Columbia
+
 ### US-Alabama *(9)*
 - Alabama A&M University 
 - Auburn University
@@ -269,8 +274,3 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - University of Wisconsin-River Falls
 
 ### US-Wyoming *(0)*
-
-### CAN-British Columbia *(3)*
-- British Columbia Institute of Technology (BCIT)
-- Simon Fraser University
-- University of British Columbia
