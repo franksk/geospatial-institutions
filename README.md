@@ -1,5 +1,5 @@
 # Geospatial Institutions
-A compilation of geospatial colleges and universities in North America with a focus on Canada and the United States. 
+A compilation of geospatial colleges and universities in North America with a focus on Canada and the United States.
 
 Other colleges and universities outside of North America are welcome, too! The ultimate goal of this project is to include **_all_** geospatial programs available to students around the globe!
 
@@ -13,20 +13,19 @@ Two lists originated as part of the URISA Vanguard Outreach Committee and we hop
 
 *__Pull requests welcome!__ We would like to keep this list updated with the latest information. If a new geospatial program has started, a contact has changed, or any other addition/change, please submit a pull request! New to Github? No worries, check out the guide below or <a href="http://www.twitter.com/urisavc" target="_blank">contact us</a> to get started. :-)*
 
-## 2015 Rankings
-Based on a list compiled annually by <a href="http://www.justinholman.com/2015/01/13/2015-rankings-top-graduate-geography-programs-for-spatial-careers" target="_blank">Justin Holman</a>. The rankings are as follows (listed in alphabetical order):
+## 2016 Rankings
+Based on a list compiled annually by <a href="http://www.justinholman.com/2016/01/21/2016-rankings-top-10-online-masters-programs-in-gis" target="_blank" alt="2016 geospatial top ten schools">Justin Holman</a>. In 2016, Mr. Holman focused on online programs, his rankings are as follows:
 
-**Best overall programs:** Arizona State University, Clark University, Michigan State University, Ohio State University, Pennsylvania State University, State University of New York at Buffalo, University of Arizona, University of California-Santa Barbara, University of Colorado-Boulder, University of Illinois at Urbana-Champaign, University of Kentucky, University of Minnesota-Twin Cities, University of North Carolina at Chapel Hill, University of Oregon, University of South Carolina-Columbia, and University of Wisconsin-Madison
-
-**Best GIScience/computation programs:** George Mason University, San Diego State University, University of Iowa, University of Maine, and University of Texas at Dallas.
-
-**Best cartography/visualization programs:** Oregon State University, Pennsylvania State University, University of Kansas, University of Oregon, and University of Wisconsin-Madison.
-
-**Best remote sensing programs:** Boston University, University of Georgia, and University of Maryland-College Park.
-
-**Best spatial analysis/statistics programs:** Arizona State University, Ohio State University, State University of New York at Buffalo, and University of Texas at Dallas
-
-**Best online/hybrid programs (Master's only):** Pennsylvania State University, and University of Southern California.
+1. University of Southern California  
+2. Pennsylvania State University  
+3. John Hopkins University (Washington, D.C.)  
+4. North Carolina State University  
+5. University of Kentucky  
+6. University of Wisconsin-Madison  
+7. University of Washington-Seattle  
+8. University of Arizona  
+9. Kent State (Kent, Ohio) 
+10. Northern Arizona University  
 
 ## How to Add/Edit an Institution
 
@@ -38,11 +37,11 @@ If you don't have a Github account, definitely <a href="https://github.com/join"
 	• Add in the location, listed in alphabetical order (ie: *US-Alabama*), if needed.  
 	• If you know of any resources to the location under the header, please add them in for future reference (check out *US-Minnesota* for an example).  
 	• Add the institution, listed in alphabetical order underneath the location title.   
-  
+
 3. **Add/edit the institution in the institutions.geojson file**:   
 	• Add in the *name of the institution* and the *latitude and longitude*. We recommend <a href="http://itouchmap.com/latlong.html" target="_blank">this awesome site</a> for getting the latitude/longitude and going **_four_** decimal points deep and try and add in as much supporting information as you can/know.  
 	• If the school offers a *program*, the marker-symbol should be set to *college* and *red*  (e.g. `"marker-symbol": "college", "marker-color": "#ef8a62"`) and if the school offers a *certificate*, the marker-symbol should be set to *library* and *blue* (e.g. `"marker-symbol": "library", "marker-color": "#5ab4ac"`).    
-  
+
 4. **Update the final numbers in the README.md**:  
 For both the location (i.e. *US-Alabama (xx)*) and the overall number (i.e. *Full List (xx)*).
 
@@ -55,13 +54,13 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 7. **Pat yourself on the back for being all-around awesome :-P**
 
 
-## Full List *(145)*
+## Full List *(148)*
 
 ### CAN-British Columbia *(1)*
 - British Columbia Institute of Technology (BCIT)
 
 ### US-Alabama *(9)*
-- Alabama A&M University 
+- Alabama A&M University
 - Auburn University
 - Jacksonville State University
 - Lawson State Community College
@@ -215,14 +214,16 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 ### US-New York *(1)*
 - State University of New York at Buffalo
 
-### US-Ohio *(1)*
+### US-Ohio *(2)*
+- Kent State
 - Ohio State University
 
 ### US-Oregon *(2)*
 - Oregon State University
 - University of Oregon
 
-### US-North Carolina *(1)*
+### US-North Carolina *(2)*
+- North Carolina State University
 - University of North Carolina at Chapel Hill
 
 ### US-North Dakota *(2)*
@@ -234,7 +235,7 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - Cheyney University of Pennsylvania
 - Community College of Philadelphia
 - Harrisburg University
-- Indiana University of Pennsylvania 
+- Indiana University of Pennsylvania
 - Pennsylvania State University
 - Shippensburg University
 - University of Pennsylvania
@@ -265,6 +266,9 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - University of Washington-Tacoma
 - Washington State University
 - Western Washington University
+
+### US-Washington D.C. *(1)*
+- John Hopkins University
 
 ### US-Wisconsin *(3)*
 - University of Wisconsin-Madison

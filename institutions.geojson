@@ -280,7 +280,6 @@
         "description": "Bachelor degree, Master degree, Certificate",
         "web": "https://geoplan.asu.edu",
         "contact": "geoplan@asu.edu",
-		"ranking": "2015 Best Overall & Spatial Analysis Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -323,6 +322,7 @@
         "description": "Bachelor degree, Master degree, Graduate certificate",
         "web": "http://nau.edu/sbs/gpr",
         "contact": "geog@nau.edu",
+        "ranking": "2016 Top Ten Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -344,7 +344,7 @@
         "description": "Graduate certificate",
         "web": "http://snre.arizona.edu/academics/prospective-students/certificates",
         "contact": "khughes@email.arizona.edu",
-        "ranking": "2015 Best Overall Program",
+        "ranking": "2016 Top Ten Program",
         "marker-symbol": "library",
         "marker-size": "medium",
         "marker-color": "#5ab4ac"
@@ -534,7 +534,6 @@
         "description": "Bachelor degree",
         "web": "http://geography.colorado.edu",
         "contact": "emily.yeh@colorado.edu",
-        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -829,7 +828,6 @@
         "description": "Bachelor degree, Graduate certificate",
         "web": "http://geography.uga.edu",
         "contact": "mulan@uga.edu",
-        "ranking": "2015 Best Remote Sensing Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -872,7 +870,6 @@
         "description": "Bachelor, Master and PhD degrees",
         "web": "http://geography.sdsu.edu",
         "contact": "pjankows@mail.sdsu.edu",
-        "ranking": "2015 Best GIScience Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -894,7 +891,6 @@
         "description": "Bachelor degree",
         "web": "http://www.geog.ucsb.edu",
         "contact": "geog-web@ucsb.edu",
-        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -937,7 +933,7 @@
         "description": "Bachelor degree, Graduate certificate",
         "web": "http://spatial.usc.edu",
         "contact": "jswift@usc.edu",
-        "ranking": "2015 Best Online/Hybrid Program",
+        "ranking": "2016 Top Ten Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1331,7 +1327,6 @@
         "description": "Bachelor and Master degree",
         "web": "http://www.geog.illinois.edu",
         "contact": "shaowen@illinois.edu",
-        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1363,7 +1358,7 @@
           41.7589
         ]
       }
-    }, 
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1455,7 +1450,6 @@
         "description": "Bachelor degree, Master degree",
         "web": "http://clas.uiowa.edu/geography",
         "contact": "geography@uiowa.edu",
-        "ranking": "2015 Best GIScience Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1516,7 +1510,6 @@
         "location": "Lawrence, Kan.",
         "description": "BA degree",
         "web": "http://geog.ku.edu",
-        "ranking": "2015 Best Cartography/Visualization Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1660,9 +1653,9 @@
         "location-code": "US-Kentucky",
         "location": "Lexington, Ken.",
         "description": "Bachelor degree, Graduate research",
-        "web": "https://geography.as.uky.edu",
+        "web": "http://newmapsplus.uky.edu",
         "contact": "jcrampton@uky.edu",
-        "ranking": "2015 Best Overall Program",
+        "ranking": "2016 Top Ten Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1716,7 +1709,7 @@
           36.9868
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1726,7 +1719,6 @@
         "description": "Master degree, Certificate",
         "web": "https://spatial.umaine.edu",
         "contact": "karen.kidder@umit.maine.edu",
-        "ranking": "2015 Best GIScience Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1738,7 +1730,7 @@
           44.9021
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1748,7 +1740,6 @@
         "description": "Bachelor, Master and PhD degrees",
         "web": "http://www.geog.umd.edu",
         "contact": "cjustice@umd.edu",
-        "ranking": "2015 Best Remote Sensing Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1770,7 +1761,6 @@
         "description": "Bachelor degree, Master degree",
         "web": "http://www.bu.edu/earth/research/geographical-sciences",
         "contact": "earth@bu.edu",
-        "ranking": "2015 Best Remote Sensing Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1792,7 +1782,6 @@
         "description": "Bachelor degree, Master degree",
         "web": "http://www.clarku.edu/departments/geography",
         "contact": "geography@clarku.edu",
-        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -1833,7 +1822,6 @@
         "location": "East Lansing, Mich.",
         "description": "Bachelor degree, Master degree, Online",
         "web": "http://www.msu.edu",
-        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2147,7 +2135,6 @@
         "description": "Minor, Masters degree",
         "contact": "mcmas002@umn.edu",
         "web": "http://mgis.umn.edu",
-        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2305,13 +2292,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "North Carolina State University",
+        "location-code": "US-North Carolina",
+        "location": "Raleigh, N. Carolina.",
+        "description": "Master degree, Graduate certificate",
+        "web": "https://cnr.ncsu.edu/geospatial",
+        "contact": "zearcaro@ncsu.edu",
+        "ranking": "2016 Top Ten Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6762,
+          35.7814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of North Carolina at Chapel Hill",
         "location-code": "US-North Carolina",
         "location": "Chapel Hill, N. Carolina",
         "description": "Bachelor degree, Graduate certificate",
         "contact": "geography@unc.edu",
         "web": "http://geography.unc.edu",
-        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2375,7 +2383,6 @@
         "description": "Bachelor degree, Master degree",
         "contact": "geosbs@buffalo.edu",
         "web": "http://www.buffalo.edu/cas/geography.html",
-        "ranking": "2015 Best Overall & Spatial Analysis Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2391,13 +2398,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Kent State",
+        "location-code": "US-Ohio",
+        "location": "Kent, Ohio",
+        "description": "Bachelor degree, Master degree, PhD",
+        "web": "https://www.kent.edu/geography",
+        "contact": "geography@kent.edu",
+        "ranking": "2016 Top Ten Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3476,
+          41.1471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ohio State University",
         "location-code": "US-Ohio",
         "location": "Columbus, Ohio",
         "description": "Bachelor degree, Master degree",
         "contact": "geog_webmaster@osu.edu",
         "web": "http://geography.osu.edu",
-        "ranking": "2015 Best Overall & Spatial Analysis Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2419,7 +2447,6 @@
         "description": "Bachelor degree, Master degree",
         "contact": "kuuipo.walsh@oregonstate.edu",
         "web": "http://ceoas.oregonstate.edu/academics/geography",
-        "ranking": "2015 Best Cartography/Visualization Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2441,7 +2468,6 @@
         "description": "Bachelor degree, Master degree",
         "contact": "uogeog@uoregon.edu",
         "web": "http://geography.uoregon.edu",
-        "ranking": "2015 Best Overall & Cartography Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2463,7 +2489,6 @@
         "description": "Bachelor, Master and PhD degrees",
         "web": "http://artsandsciences.sc.edu/geog",
         "contact": "jkupfer@mailbox.sc.edu",
-        "ranking": "2015 Best Overall Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2605,7 +2630,7 @@
         "location": "University Park, Penn.",
         "description": "Graduate degree, Online program",
         "web": "http://www.worldcampus.psu.edu/degrees-and-certificates/geographic-information-systems-gis-masters",
-        "ranking": "2015 Best Overall, Cartography & Online Program",
+        "ranking": "2016 Top Ten Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2669,7 +2694,6 @@
         "description": "Bachelor, Master and PhD degrees",
         "web": "https://www.utdallas.edu/epps/geospatial-science",
         "contact": "ffqiu@utdallas.edu",
-        "ranking": "2015 Best GIScience & Spatial Analysis Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2681,7 +2705,7 @@
           32.9849
         ]
       }
-    }, 
+    },
     {
       "type": "Feature",
       "properties": {
@@ -2691,7 +2715,6 @@
         "description": "Bachelor degree, Master degree",
         "web": "http://ggs.gmu.edu",
         "contact": "ggs@gmu.edu",
-        "ranking": "2015 Best GIScience Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2901,6 +2924,7 @@
         "description": "Bachelor degree, Master degree and PhD degree",
         "web": "http://depts.washington.edu/geog",
         "contact": "jarosz@u.washington.edu",
+        "ranking": "2016 Top Ten Program",
         "marker-symbol": "college",
         "marker-size": "medium",
         "marker-color": "#ef8a62"
@@ -2979,12 +3003,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "John Hopkins University",
+        "location-code": "US-Washington D.C.",
+        "location": "Washington, D.C.",
+        "description": "Online Graduate program",
+        "web": "http://advanced.jhu.edu/academics/graduate-degree-programs/geographic-information-systems",
+        "contact": "geri.miller@jhu.edu",
+        "ranking": "2016 Top Ten Program",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0394,
+          38.9086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "University of Wisconsin-Madison",
         "location-code": "US-Wisconsin",
         "location": "Madison, Wisc.",
         "description": "Graduate Certificate",
         "web": "http://www.geography.wisc.edu/GISCertificate",
-        "ranking": "2015 Best Overall & Cartography/Visualization Program",
+        "ranking": "2016 Top Ten Program",
         "marker-symbol": "library",
         "marker-size": "medium",
         "marker-color": "#5ab4ac"
