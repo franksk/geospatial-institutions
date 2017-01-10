@@ -2438,6 +2438,27 @@
         ]
       }
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Oklahoma",
+        "location-code": "US-Oklahoma",
+        "location": "Norman, OK",
+        "description": "Bachelor degree, Graduate Certificate",
+        "contact": "jamie@ou.edu",
+        "web": "http://geography.ou.edu/index.php/academics/geographic-information-science-gis",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+        "marker-color": "#ef8a62"
+      },
+        "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -97.4402,
+          35.2105
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
