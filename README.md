@@ -218,6 +218,9 @@ Need help? Here's a <a href="https://help.github.com/articles/creating-a-pull-re
 - Kent State
 - Ohio State University
 
+### <a href="http://geography.ou.edu/index.php/academics/undergrad" target="_blank">US-Oklahoma</a> *(1)*
+- University of Oklahoma
+
 ### US-Oregon *(2)*
 - Oregon State University
 - University of Oregon
